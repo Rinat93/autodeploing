@@ -1,0 +1,74 @@
+{
+  "static": "../public/",
+  "app": {
+    "local": "../../sites/",
+    "git": {}
+  },
+  "install": [
+    {
+      "name": "git"
+    },
+    {
+      "name": "python3-pip"
+    },
+    {
+      "name": "python3-venv"
+    },
+    {
+      "name": "python-pip"
+    },
+    {
+      "name": "python2",
+      "module": "PYTHON",
+
+      "package": {
+        "virtualenv": 0
+      },
+
+      "venv-settings": {
+        "name": ".env",
+        "src": "/home/USER/",
+        "package": {
+          "virtualenv": 0
+        },
+        "project": {
+          "git": {
+            "src": "bitbucket.org/***",
+            "user": "XXX",
+            "password": "XXX",
+            "local": "PATH_TO_APP"
+          },
+          "package": "/home/gnom/proplast/req.txt"
+        }
+      }
+    },
+    {
+      "name": "nginx"
+    },
+    {
+      "name": "uwsgi"
+    },
+    {
+      "name": "postgresql"
+    }
+  ],
+
+  "git": [
+    {
+      "src": "bitbucket.org/XXXX or github.com/XXXX",
+      "user": "USER",
+      "password": "XXXX",
+      "local": "PATH_TO_UPLOAD"
+    }
+  ],
+
+  "server": {
+    "user": "SERVER_USER",
+    "password": "PASSWORD",
+    "host": "HOST_AND_IP",
+    "ssh_open_key": "NOT_JOBS",
+    "copy": {
+      "static": "COPY_STATIC"
+    }
+  }
+}

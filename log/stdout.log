@@ -1,0 +1,3140 @@
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Collecting django==2.11
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Collecting django==2.11
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Collecting django==2.11
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Collecting django==2.11
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Get:2 http://security.debian.org/debian-security buster/updates InRelease [38.3 kB]
+
+... Hit:1 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Fetched 38.3 kB in 1s (72.9 kB/s)
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... python2 set to manually installed.
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 97 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 97 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... The following additional packages will be installed:
+
+...   javascript-common libjs-jquery libjs-sphinxdoc libjs-underscore
+
+...   libpython-all-dev libpython-dev libpython2-dev libpython2.7 libpython2.7-dev
+
+...   libpython2.7-minimal libpython2.7-stdlib python-all python-all-dev
+
+...   python-asn1crypto python-cffi-backend python-configparser python-crypto
+
+...   python-cryptography python-dbus python-dev python-entrypoints python-enum34
+
+...   python-gi python-idna python-ipaddress python-keyring python-keyrings.alt
+
+...   python-pkg-resources python-secretstorage python-setuptools python-six
+
+...   python-wheel python-xdg python2-dev python2.7 python2.7-dev
+
+...   python2.7-minimal
+
+... Suggested packages:
+
+...   python-crypto-doc python-cryptography-doc python-cryptography-vectors
+
+...   python-dbus-dbg python-dbus-doc python-enum34-doc python-gi-cairo
+
+...   gnome-keyring libkf5wallet-bin gir1.2-gnomekeyring-1.0 python-gdata
+
+...   python-keyczar python-secretstorage-doc python-setuptools-doc python2.7-doc
+
+...   binfmt-support
+
+... The following NEW packages will be installed:
+
+...   javascript-common libjs-jquery libjs-sphinxdoc libjs-underscore
+
+...   libpython-all-dev libpython-dev libpython2-dev libpython2.7 libpython2.7-dev
+
+...   python-all python-all-dev python-asn1crypto python-cffi-backend
+
+...   python-configparser python-crypto python-cryptography python-dbus python-dev
+
+...   python-entrypoints python-enum34 python-gi python-idna python-ipaddress
+
+...   python-keyring python-keyrings.alt python-pip python-pkg-resources
+
+...   python-secretstorage python-setuptools python-six python-wheel python-xdg
+
+...   python2-dev python2.7-dev
+
+... The following packages will be upgraded:
+
+...   libpython2.7-minimal libpython2.7-stdlib python2.7 python2.7-minimal
+
+... 4 upgraded, 34 newly installed, 0 to remove and 93 not upgraded.
+
+... Need to get 39.5 MB of archives.
+
+... After this operation, 69.2 MB of additional disk space will be used.
+
+... Get:1 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python2.7 amd64 2.7.16~rc1-1 [304 kB]
+
+... Get:2 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython2.7-stdlib amd64 2.7.16~rc1-1 [1,910 kB]
+
+... Get:3 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python2.7-minimal amd64 2.7.16~rc1-1 [1,369 kB]
+
+... Get:4 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython2.7-minimal amd64 2.7.16~rc1-1 [394 kB]
+
+... Get:5 http://cdn-fastly.deb.debian.org/debian buster/main amd64 javascript-common all 11 [6,120 B]
+
+... Get:6 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libjs-jquery all 3.3.1~dfsg-1 [332 kB]
+
+... Get:7 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libjs-underscore all 1.8.3~dfsg-2 [91.4 kB]
+
+... Get:8 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libjs-sphinxdoc all 1.8.4-1 [95.9 kB]
+
+... Get:9 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython2.7 amd64 2.7.16~rc1-1 [1,036 kB]
+
+... Get:10 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython2.7-dev amd64 2.7.16~rc1-1 [31.6 MB]
+
+... Get:11 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython2-dev amd64 2.7.15-4 [20.9 kB]
+
+... Get:12 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython-dev amd64 2.7.15-4 [20.9 kB]
+
+... Get:13 http://cdn-fastly.deb.debian.org/debian buster/main amd64 libpython-all-dev amd64 2.7.15-4 [1,060 B]
+
+... Get:14 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-all amd64 2.7.15-4 [1,044 B]
+
+... Get:15 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python2.7-dev amd64 2.7.16~rc1-1 [292 kB]
+
+... Get:16 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python2-dev amd64 2.7.15-4 [1,208 B]
+
+... Get:17 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-dev amd64 2.7.15-4 [1,188 B]
+
+... Get:18 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-all-dev amd64 2.7.15-4 [1,064 B]
+
+... Get:19 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-asn1crypto all 0.24.0-1 [78.1 kB]
+
+... Get:20 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-cffi-backend amd64 1.12.0-2 [78.5 kB]
+
+... Get:21 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-configparser all 3.5.0b2-1 [59.2 kB]
+
+... Get:22 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-crypto amd64 2.6.1-9+b1 [259 kB]
+
+... Get:23 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-enum34 all 1.1.6-2 [35.3 kB]
+
+... Get:24 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-idna all 2.6-1 [34.1 kB]
+
+... Get:25 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-ipaddress all 1.0.17-1 [18.1 kB]
+
+... Get:26 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-six all 1.12.0-1 [15.7 kB]
+
+... Get:27 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-cryptography amd64 2.3-1 [218 kB]
+
+... Get:28 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-dbus amd64 1.2.8-3 [103 kB]
+
+... Get:29 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-entrypoints all 0.3-1 [5,444 B]
+
+... Get:30 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-gi amd64 3.30.4-1 [227 kB]
+
+... Get:31 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-secretstorage all 2.3.1-2 [13.8 kB]
+
+... Get:32 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-keyring all 17.1.1-1 [47.1 kB]
+
+... Get:33 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-keyrings.alt all 3.1.1-1 [18.3 kB]
+
+... Get:34 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-pip all 18.1-4 [215 kB]
+
+... Get:35 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-pkg-resources all 40.8.0-1 [182 kB]
+
+... Get:36 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-setuptools all 40.8.0-1 [382 kB]
+
+... Get:37 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-wheel all 0.32.3-2 [19.3 kB]
+
+... Get:38 http://cdn-fastly.deb.debian.org/debian buster/main amd64 python-xdg all 0.25-5 [35.9 kB]
+
+... apt-listchanges: Reading changelogs...
+
+... Fetched 39.5 MB in 5s (8,440 kB/s)
+
+... (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 42246 files and directories currently installed.)
+
+... Preparing to unpack .../00-python2.7_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking python2.7 (2.7.16~rc1-1) over (2.7.15-8) ...
+
+... Preparing to unpack .../01-libpython2.7-stdlib_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking libpython2.7-stdlib:amd64 (2.7.16~rc1-1) over (2.7.15-8) ...
+
+... Preparing to unpack .../02-python2.7-minimal_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking python2.7-minimal (2.7.16~rc1-1) over (2.7.15-8) ...
+
+... Preparing to unpack .../03-libpython2.7-minimal_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking libpython2.7-minimal:amd64 (2.7.16~rc1-1) over (2.7.15-8) ...
+
+... Selecting previously unselected package javascript-common.
+
+... Preparing to unpack .../04-javascript-common_11_all.deb ...
+
+... Unpacking javascript-common (11) ...
+
+... Selecting previously unselected package libjs-jquery.
+
+... Preparing to unpack .../05-libjs-jquery_3.3.1~dfsg-1_all.deb ...
+
+... Unpacking libjs-jquery (3.3.1~dfsg-1) ...
+
+... Selecting previously unselected package libjs-underscore.
+
+... Preparing to unpack .../06-libjs-underscore_1.8.3~dfsg-2_all.deb ...
+
+... Unpacking libjs-underscore (1.8.3~dfsg-2) ...
+
+... Selecting previously unselected package libjs-sphinxdoc.
+
+... Preparing to unpack .../07-libjs-sphinxdoc_1.8.4-1_all.deb ...
+
+... Unpacking libjs-sphinxdoc (1.8.4-1) ...
+
+... Selecting previously unselected package libpython2.7:amd64.
+
+... Preparing to unpack .../08-libpython2.7_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking libpython2.7:amd64 (2.7.16~rc1-1) ...
+
+... Selecting previously unselected package libpython2.7-dev:amd64.
+
+... Preparing to unpack .../09-libpython2.7-dev_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking libpython2.7-dev:amd64 (2.7.16~rc1-1) ...
+
+... Selecting previously unselected package libpython2-dev:amd64.
+
+... Preparing to unpack .../10-libpython2-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking libpython2-dev:amd64 (2.7.15-4) ...
+
+... Selecting previously unselected package libpython-dev:amd64.
+
+... Preparing to unpack .../11-libpython-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking libpython-dev:amd64 (2.7.15-4) ...
+
+... Selecting previously unselected package libpython-all-dev:amd64.
+
+... Preparing to unpack .../12-libpython-all-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking libpython-all-dev:amd64 (2.7.15-4) ...
+
+... Selecting previously unselected package python-all.
+
+... Preparing to unpack .../13-python-all_2.7.15-4_amd64.deb ...
+
+... Unpacking python-all (2.7.15-4) ...
+
+... Selecting previously unselected package python2.7-dev.
+
+... Preparing to unpack .../14-python2.7-dev_2.7.16~rc1-1_amd64.deb ...
+
+... Unpacking python2.7-dev (2.7.16~rc1-1) ...
+
+... Selecting previously unselected package python2-dev.
+
+... Preparing to unpack .../15-python2-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking python2-dev (2.7.15-4) ...
+
+... Selecting previously unselected package python-dev.
+
+... Preparing to unpack .../16-python-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking python-dev (2.7.15-4) ...
+
+... Selecting previously unselected package python-all-dev.
+
+... Preparing to unpack .../17-python-all-dev_2.7.15-4_amd64.deb ...
+
+... Unpacking python-all-dev (2.7.15-4) ...
+
+... Selecting previously unselected package python-asn1crypto.
+
+... Preparing to unpack .../18-python-asn1crypto_0.24.0-1_all.deb ...
+
+... Unpacking python-asn1crypto (0.24.0-1) ...
+
+... Selecting previously unselected package python-cffi-backend.
+
+... Preparing to unpack .../19-python-cffi-backend_1.12.0-2_amd64.deb ...
+
+... Unpacking python-cffi-backend (1.12.0-2) ...
+
+... Selecting previously unselected package python-configparser.
+
+... Preparing to unpack .../20-python-configparser_3.5.0b2-1_all.deb ...
+
+... Unpacking python-configparser (3.5.0b2-1) ...
+
+... Selecting previously unselected package python-crypto.
+
+... Preparing to unpack .../21-python-crypto_2.6.1-9+b1_amd64.deb ...
+
+... Unpacking python-crypto (2.6.1-9+b1) ...
+
+... Selecting previously unselected package python-enum34.
+
+... Preparing to unpack .../22-python-enum34_1.1.6-2_all.deb ...
+
+... Unpacking python-enum34 (1.1.6-2) ...
+
+... Selecting previously unselected package python-idna.
+
+... Preparing to unpack .../23-python-idna_2.6-1_all.deb ...
+
+... Unpacking python-idna (2.6-1) ...
+
+... Selecting previously unselected package python-ipaddress.
+
+... Preparing to unpack .../24-python-ipaddress_1.0.17-1_all.deb ...
+
+... Unpacking python-ipaddress (1.0.17-1) ...
+
+... Selecting previously unselected package python-six.
+
+... Preparing to unpack .../25-python-six_1.12.0-1_all.deb ...
+
+... Unpacking python-six (1.12.0-1) ...
+
+... Selecting previously unselected package python-cryptography.
+
+... Preparing to unpack .../26-python-cryptography_2.3-1_amd64.deb ...
+
+... Unpacking python-cryptography (2.3-1) ...
+
+... Selecting previously unselected package python-dbus.
+
+... Preparing to unpack .../27-python-dbus_1.2.8-3_amd64.deb ...
+
+... Unpacking python-dbus (1.2.8-3) ...
+
+... Selecting previously unselected package python-entrypoints.
+
+... Preparing to unpack .../28-python-entrypoints_0.3-1_all.deb ...
+
+... Unpacking python-entrypoints (0.3-1) ...
+
+... Selecting previously unselected package python-gi.
+
+... Preparing to unpack .../29-python-gi_3.30.4-1_amd64.deb ...
+
+... Unpacking python-gi (3.30.4-1) ...
+
+... Selecting previously unselected package python-secretstorage.
+
+... Preparing to unpack .../30-python-secretstorage_2.3.1-2_all.deb ...
+
+... Unpacking python-secretstorage (2.3.1-2) ...
+
+... Selecting previously unselected package python-keyring.
+
+... Preparing to unpack .../31-python-keyring_17.1.1-1_all.deb ...
+
+... Unpacking python-keyring (17.1.1-1) ...
+
+... Selecting previously unselected package python-keyrings.alt.
+
+... Preparing to unpack .../32-python-keyrings.alt_3.1.1-1_all.deb ...
+
+... Unpacking python-keyrings.alt (3.1.1-1) ...
+
+... Selecting previously unselected package python-pip.
+
+... Preparing to unpack .../33-python-pip_18.1-4_all.deb ...
+
+... Unpacking python-pip (18.1-4) ...
+
+... Selecting previously unselected package python-pkg-resources.
+
+... Preparing to unpack .../34-python-pkg-resources_40.8.0-1_all.deb ...
+
+... Unpacking python-pkg-resources (40.8.0-1) ...
+
+... Selecting previously unselected package python-setuptools.
+
+... Preparing to unpack .../35-python-setuptools_40.8.0-1_all.deb ...
+
+... Unpacking python-setuptools (40.8.0-1) ...
+
+... Selecting previously unselected package python-wheel.
+
+... Preparing to unpack .../36-python-wheel_0.32.3-2_all.deb ...
+
+... Unpacking python-wheel (0.32.3-2) ...
+
+... Selecting previously unselected package python-xdg.
+
+... Preparing to unpack .../37-python-xdg_0.25-5_all.deb ...
+
+... Unpacking python-xdg (0.25-5) ...
+
+... Setting up python-idna (2.6-1) ...
+
+... Setting up libjs-jquery (3.3.1~dfsg-1) ...
+
+... Setting up python-asn1crypto (0.24.0-1) ...
+
+... Setting up python-crypto (2.6.1-9+b1) ...
+
+... Setting up libjs-underscore (1.8.3~dfsg-2) ...
+
+... Processing triggers for mime-support (3.61) ...
+
+... Setting up python-wheel (0.32.3-2) ...
+
+... Setting up libjs-sphinxdoc (1.8.4-1) ...
+
+... Setting up python-pkg-resources (40.8.0-1) ...
+
+... Setting up python-configparser (3.5.0b2-1) ...
+
+... Setting up python-cffi-backend (1.12.0-2) ...
+
+... Setting up python-gi (3.30.4-1) ...
+
+... Setting up python-six (1.12.0-1) ...
+
+... Processing triggers for libc-bin (2.28-5) ...
+
+... Setting up python-enum34 (1.1.6-2) ...
+
+... Processing triggers for man-db (2.8.5-1) ...
+
+... Setting up javascript-common (11) ...
+
+... Setting up python-dbus (1.2.8-3) ...
+
+... Setting up libpython2.7-minimal:amd64 (2.7.16~rc1-1) ...
+
+... Setting up python-ipaddress (1.0.17-1) ...
+
+... Setting up python-pip (18.1-4) ...
+
+... Setting up python-entrypoints (0.3-1) ...
+
+... Setting up libpython2.7-stdlib:amd64 (2.7.16~rc1-1) ...
+
+... Setting up python2.7-minimal (2.7.16~rc1-1) ...
+
+... Setting up python-xdg (0.25-5) ...
+
+... Setting up python-setuptools (40.8.0-1) ...
+
+... Setting up python2.7 (2.7.16~rc1-1) ...
+
+... Setting up python-keyrings.alt (3.1.1-1) ...
+
+... Setting up libpython2.7:amd64 (2.7.16~rc1-1) ...
+
+... Setting up python-cryptography (2.3-1) ...
+
+... Setting up libpython2.7-dev:amd64 (2.7.16~rc1-1) ...
+
+... Setting up python2.7-dev (2.7.16~rc1-1) ...
+
+... Setting up python-all (2.7.15-4) ...
+
+... Setting up python-secretstorage (2.3.1-2) ...
+
+... Setting up python-keyring (17.1.1-1) ...
+
+... Setting up libpython2-dev:amd64 (2.7.15-4) ...
+
+... Setting up python2-dev (2.7.15-4) ...
+
+... Setting up libpython-dev:amd64 (2.7.15-4) ...
+
+... Setting up python-dev (2.7.15-4) ...
+
+... Setting up libpython-all-dev:amd64 (2.7.15-4) ...
+
+... Setting up python-all-dev (2.7.15-4) ...
+
+... Processing triggers for libc-bin (2.28-5) ...
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Collecting alabaster==0.7.7 (from -r /home/gnom/proplast/req.txt (line 1))
+
+...   Downloading https://files.pythonhosted.org/packages/25/e6/86e30d0d818955e92ee37c64f92a7a3b2cb4bbdd07a7e74a6a7c028c1f3a/alabaster-0.7.7-py2.py3-none-any.whl
+
+... Collecting amqp==1.4.9 (from -r /home/gnom/proplast/req.txt (line 2))
+
+...   Downloading https://files.pythonhosted.org/packages/ed/09/314d2788aba0aa91f2578071a6484f87a615172a98c309c2aad3433da90b/amqp-1.4.9-py2.py3-none-any.whl (51kB)
+
+... Collecting ansible==2.3.0.0 (from -r /home/gnom/proplast/req.txt (line 3))
+
+...   Downloading https://files.pythonhosted.org/packages/65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz (4.3MB)
+
+... Collecting anyjson==0.3.3 (from -r /home/gnom/proplast/req.txt (line 4))
+
+...   Downloading https://files.pythonhosted.org/packages/c3/4d/d4089e1a3dd25b46bebdb55a992b0797cff657b4477bc32ce28038fdecbc/anyjson-0.3.3.tar.gz
+
+... Collecting appdirs==1.4.3 (from -r /home/gnom/proplast/req.txt (line 5))
+
+...   Downloading https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl
+
+... Collecting asn1crypto==0.22.0 (from -r /home/gnom/proplast/req.txt (line 6))
+
+...   Downloading https://files.pythonhosted.org/packages/97/ba/7e8117d8efcee589f4d96dd2b2eb1d997f96d27d214cf2b7134ad8acf6ab/asn1crypto-0.22.0-py2.py3-none-any.whl (97kB)
+
+... Collecting Babel==2.2.0 (from -r /home/gnom/proplast/req.txt (line 7))
+
+...   Downloading https://files.pythonhosted.org/packages/33/0e/7428041cddc3ff6e9a0f11cd2464b8bf6caed1b3879fcb9cf064f1ac7675/Babel-2.2.0-py2.py3-none-any.whl (6.5MB)
+
+... Collecting backports.ssl-match-hostname==3.5.0.1 (from -r /home/gnom/proplast/req.txt (line 8))
+
+...   Downloading https://files.pythonhosted.org/packages/76/21/2dc61178a2038a5cb35d14b61467c6ac632791ed05131dda72c20e7b9e23/backports.ssl_match_hostname-3.5.0.1.tar.gz
+
+... Collecting billiard==3.3.0.21 (from -r /home/gnom/proplast/req.txt (line 9))
+
+...   Downloading https://files.pythonhosted.org/packages/65/8d/e992b90735a6fc2a9f360e3cfbece33dec1b1914e12c590c36f1b5aced57/billiard-3.3.0.21.tar.gz (151kB)
+
+... Collecting bleach==1.4.2 (from -r /home/gnom/proplast/req.txt (line 10))
+
+...   Downloading https://files.pythonhosted.org/packages/98/40/b2fc4d7a22ca89e58c6bcda0bccfff5b61bfcc19a11f9d037df004316088/bleach-1.4.2-py2.py3-none-any.whl
+
+... Collecting bootstrap-admin==0.3.6 (from -r /home/gnom/proplast/req.txt (line 11))
+
+...   Downloading https://files.pythonhosted.org/packages/10/92/b6cfc89575572d8f87c18357a90088fb5aa99a047b18198b0a5a211cf4f7/bootstrap_admin-0.3.6.tar.gz (158kB)
+
+... Collecting celery==3.1.19 (from -r /home/gnom/proplast/req.txt (line 12))
+
+...   Downloading https://files.pythonhosted.org/packages/55/e1/65d2b3ded641a5388055bdd8845a9a8e5b60e0bfd8280fc2bd85f931dc3a/celery-3.1.19-py2.py3-none-any.whl (517kB)
+
+... Collecting celery-haystack==0.10 (from -r /home/gnom/proplast/req.txt (line 13))
+
+...   Downloading https://files.pythonhosted.org/packages/5c/62/0565be8831b3bf34e71b67711ff998d9ec9916d7be0df59789cdb6edc17e/celery_haystack-0.10-py2.py3-none-any.whl
+
+... Collecting celery-with-redis==3.0 (from -r /home/gnom/proplast/req.txt (line 14))
+
+...   Downloading https://files.pythonhosted.org/packages/d8/f4/40cfec02451a8a9c911ac67080e39a5ae8ab9100ff79b0c0531898d4bff7/celery-with-redis-3.0.tar.gz
+
+... Collecting certifi==2017.4.17 (from -r /home/gnom/proplast/req.txt (line 15))
+
+...   Downloading https://files.pythonhosted.org/packages/eb/01/c1f58987b777d6c4ec535b4e004a4a07bfc9db06f0c7533367ca6da8f2a6/certifi-2017.4.17-py2.py3-none-any.whl (375kB)
+
+... Collecting cffi==1.10.0 (from -r /home/gnom/proplast/req.txt (line 16))
+
+...   Downloading https://files.pythonhosted.org/packages/50/85/d74d06ac09fc2deb3d9bd6d6aca4ca13d82b8118c04494cd0e84fcd81624/cffi-1.10.0-cp27-cp27mu-manylinux1_x86_64.whl (392kB)
+
+... Collecting click==6.7 (from -r /home/gnom/proplast/req.txt (line 17))
+
+...   Downloading https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl (71kB)
+
+... Collecting cssselect==0.9.2 (from -r /home/gnom/proplast/req.txt (line 18))
+
+...   Downloading https://files.pythonhosted.org/packages/61/8d/298396b86d65ef62e5913dc5153fbc51576a56656994dd9d31df84967190/cssselect-0.9.2-py2.py3-none-any.whl
+
+... Collecting DAWG-Python==0.7.2 (from -r /home/gnom/proplast/req.txt (line 19))
+
+...   Downloading https://files.pythonhosted.org/packages/6a/84/ff1ce2071d4c650ec85745766c0047ccc3b5036f1d03559fd46bb38b5eeb/DAWG_Python-0.7.2-py2.py3-none-any.whl
+
+... Collecting decorator==4.0.9 (from -r /home/gnom/proplast/req.txt (line 20))
+
+...   Downloading https://files.pythonhosted.org/packages/7d/ca/493b2377bf42d57bdd985c31975be3d2b500ad9079199cecb7633e8e2cde/decorator-4.0.9-py2.py3-none-any.whl
+
+... Collecting Django==1.8.15 (from -r /home/gnom/proplast/req.txt (line 21))
+
+...   Downloading https://files.pythonhosted.org/packages/f3/bb/865626b78c2e87acd4dc1bd8f8cb0a49582ec65e40968f3d24f594bba600/Django-1.8.15-py2.py3-none-any.whl (6.2MB)
+
+... Collecting django-appconf==1.0.1 (from -r /home/gnom/proplast/req.txt (line 22))
+
+...   Downloading https://files.pythonhosted.org/packages/89/06/f12bac3e71c1dbea27bfa1ffb1720acd2b0bb11eb344f5b77d9a7d64e574/django_appconf-1.0.1-py2.py3-none-any.whl
+
+... Collecting django-autofixture==0.11.0 (from -r /home/gnom/proplast/req.txt (line 23))
+
+...   Downloading https://files.pythonhosted.org/packages/3a/67/2bb4ae31fc0ea16eda7e5ad1016c089404a3e387c6f1589fe0e66d19dab2/django-autofixture-0.11.0.tar.gz
+
+... Collecting django-bleach==0.3.0 (from -r /home/gnom/proplast/req.txt (line 24))
+
+...   Downloading https://files.pythonhosted.org/packages/5a/12/3a6ec6d8aae68562a9c662f0e2fd15da3d85f681cc759852b2ac40e9db43/django-bleach-0.3.0.tar.gz
+
+... Collecting django-cacheops==2.4.3 (from -r /home/gnom/proplast/req.txt (line 25))
+
+...   Downloading https://files.pythonhosted.org/packages/5e/9c/442b8496079c563b1ec000020bd56131d6ff0e093deb3ce0e127828595ed/django-cacheops-2.4.3.tar.gz
+
+... Collecting django-celery==3.1.17 (from -r /home/gnom/proplast/req.txt (line 26))
+
+...   Downloading https://files.pythonhosted.org/packages/56/cc/6b9731091887dcb1c76ef48521e580bb2b0f469e6f4934072aac75a478f3/django-celery-3.1.17.tar.gz (79kB)
+
+... Collecting django-ckeditor==5.2.2 (from -r /home/gnom/proplast/req.txt (line 27))
+
+...   Downloading https://files.pythonhosted.org/packages/b1/f8/c427cbb8b71b601162a2f812e43c4e0b71b4653e5ca70137f1bc368712ff/django-ckeditor-5.2.2.tar.gz (1.6MB)
+
+... Collecting django-crispy-forms==1.6.0 (from -r /home/gnom/proplast/req.txt (line 28))
+
+...   Downloading https://files.pythonhosted.org/packages/f2/e7/62c67158cb4617c9b56ea069b179abb1a8436fe98c485725e44a2c694f28/django_crispy_forms-1.6.0-py2-none-any.whl (178kB)
+
+... Collecting django-debug-toolbar==1.4 (from -r /home/gnom/proplast/req.txt (line 29))
+
+...   Downloading https://files.pythonhosted.org/packages/f6/b2/f7849bedd8bf29bed59d5dc60a979b0f18f73d4fc36e4d5deff9f8d0dbd8/django_debug_toolbar-1.4-py2.py3-none-any.whl (212kB)
+
+... Collecting django-elasticsearch-debug-toolbar==1.0.3 (from -r /home/gnom/proplast/req.txt (line 30))
+
+...   Downloading https://files.pythonhosted.org/packages/5f/16/9f6986a42a933c317ce5f6cd2de5da6a07e4668e7b6c2bb95ed09151ff3f/django-elasticsearch-debug-toolbar-1.0.3.tar.gz
+
+... Collecting django-embed-video==1.1.2 (from -r /home/gnom/proplast/req.txt (line 31))
+
+...   Downloading https://files.pythonhosted.org/packages/1d/c0/9e7e8033256aac4feab495ba334cee6bbf14ef41cdad734d9f687d7128eb/django-embed-video-1.1.2.tar.gz
+
+... Collecting django-extensions==1.6.1 (from -r /home/gnom/proplast/req.txt (line 32))
+
+...   Downloading https://files.pythonhosted.org/packages/ee/62/a16d75b21a242f143d6e8be5432579da60bc90ed2ddc3fd9c6febe9c722c/django_extensions-1.6.1-py2.py3-none-any.whl (202kB)
+
+... Collecting django-geoip==0.5.2 (from -r /home/gnom/proplast/req.txt (line 33))
+
+...   Downloading https://files.pythonhosted.org/packages/68/4b/94cfb102e45daff5853c713bc89c7cc097e797560a1b1d51c4d7d2364989/django-geoip-0.5.2.tar.gz
+
+... Collecting django-jinja==2.2.2 (from -r /home/gnom/proplast/req.txt (line 34))
+
+...   Downloading https://files.pythonhosted.org/packages/a0/ed/651dff14c9a9a93417ec548fabaa628b5f92bb50a74d87f461c2a1d43bef/django-jinja-2.2.2.tar.gz
+
+... Collecting django-kombu==0.9.4 (from -r /home/gnom/proplast/req.txt (line 35))
+
+...   Downloading https://files.pythonhosted.org/packages/db/f0/1df762ff6d9bcbcabc8a13980b8a7765233b1113b727d8d1e7266d8f00d6/django-kombu-0.9.4.tar.gz
+
+... Collecting django-mptt==0.8.7 (from -r /home/gnom/proplast/req.txt (line 36))
+
+...   Downloading https://files.pythonhosted.org/packages/6a/8d/2d7fb86ea36a7cc144ba0516c78dde429746e7df5ced903cbb5aaa8fb20e/django_mptt-0.8.7-py2.py3-none-any.whl (96kB)
+
+... Collecting django-mptt-admin==0.3.0 (from -r /home/gnom/proplast/req.txt (line 37))
+
+...   Downloading https://files.pythonhosted.org/packages/f1/65/e68d71e03a04034d70013ec664af84216848ab7b0f0427b76d7086097986/django_mptt_admin-0.3.0-py2.py3-none-any.whl (98kB)
+
+... Collecting django-pipeline==1.5.4 (from -r /home/gnom/proplast/req.txt (line 38))
+
+...   Downloading https://files.pythonhosted.org/packages/ef/58/4e5a373bb2915c1736c1223d1f8cb39741377337bd8f1cf8d3e93aaf6a7e/django_pipeline-1.5.4-py2.py3-none-any.whl
+
+... Collecting django-redis==4.4.1 (from -r /home/gnom/proplast/req.txt (line 39))
+
+...   Downloading https://files.pythonhosted.org/packages/36/da/acfaa2ecf99e07fb00153ad959e41c958e9780c3b7a935591b5d4d0a0ba8/django-redis-4.4.1.tar.gz (53kB)
+
+... Collecting django-reversion==2.0.6 (from -r /home/gnom/proplast/req.txt (line 40))
+
+...   Downloading https://files.pythonhosted.org/packages/54/9f/5a1c95a6b601270dd2de0d5fbbfb4017cde20bcac200228f5ff1e4937cdd/django-reversion-2.0.6.tar.gz (60kB)
+
+... Collecting django-reversion-compare==0.7.2 (from -r /home/gnom/proplast/req.txt (line 41))
+
+...   Downloading https://files.pythonhosted.org/packages/7a/e2/002468a620c74679c8cc03c6255d50047545c36cf19138522601aa80fa86/django_reversion_compare-0.7.2-py2.py3-none-any.whl (71kB)
+
+... Collecting Django-Select2==5.8.4 (from -r /home/gnom/proplast/req.txt (line 42))
+
+...   Downloading https://files.pythonhosted.org/packages/ce/79/447bbc787de2fccec4fb922dc504292c2532728f0dc60728f1a182bf2745/Django-Select2-5.8.4.tar.gz
+
+... Collecting django-smart-selects==1.3.4 (from -r /home/gnom/proplast/req.txt (line 43))
+
+...   Downloading https://files.pythonhosted.org/packages/7e/76/e21f0318ec15500e7122862e09ed97b2a4fbcb5e2b41d512ee54084d0ed5/django-smart-selects-1.3.4.tar.gz
+
+... Collecting django-taggit==0.22.0 (from -r /home/gnom/proplast/req.txt (line 44))
+
+...   Downloading https://files.pythonhosted.org/packages/64/4d/006cf0f139d27bc19fb4afeb0c3af25ecb4d91a14339cf045137521a3f4d/django_taggit-0.22.0-py2.py3-none-any.whl (45kB)
+
+... Collecting django-taggit-helpers==0.1.4 (from -r /home/gnom/proplast/req.txt (line 45))
+
+...   Downloading https://files.pythonhosted.org/packages/89/75/c9814bd50dca05cb7b4ef0abc47d2a4d3993a2863e45b112d09b509708bf/django_taggit_helpers-0.1.4-py2.py3-none-any.whl
+
+... Collecting django-tastypie==0.12.2 (from -r /home/gnom/proplast/req.txt (line 46))
+
+...   Downloading https://files.pythonhosted.org/packages/7e/b8/7410ae424b85d7a8d1a61df6f928561f64b0b309726865db0408530757bd/django_tastypie-0.12.2-py2.py3-none-any.whl (76kB)
+
+... Collecting django-transaction-hooks==0.2 (from -r /home/gnom/proplast/req.txt (line 47))
+
+...   Downloading https://files.pythonhosted.org/packages/60/f0/04ea2d937a44d94043a0ce8d4dec3328b36faa5d4b3c893478165c0aa259/django-transaction-hooks-0.2.tar.gz
+
+... Collecting django-wysiwyg-redactor==0.4.9 (from -r /home/gnom/proplast/req.txt (line 48))
+
+...   Downloading https://files.pythonhosted.org/packages/71/23/9b28609666dc46ffc005f157656b3ed843ba14f97f6e0c310084bdcec814/django-wysiwyg-redactor-0.4.9.tar.gz (162kB)
+
+... Collecting docopt==0.6.2 (from -r /home/gnom/proplast/req.txt (line 49))
+
+...   Downloading https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
+
+... Collecting docutils==0.12 (from -r /home/gnom/proplast/req.txt (line 50))
+
+...   Downloading https://files.pythonhosted.org/packages/37/38/ceda70135b9144d84884ae2fc5886c6baac4edea39550f28bcd144c1234d/docutils-0.12.tar.gz (1.6MB)
+
+... Collecting ecdsa==0.13 (from -r /home/gnom/proplast/req.txt (line 51))
+
+...   Downloading https://files.pythonhosted.org/packages/63/f4/73669d51825516ce8c43b816c0a6b64cd6eb71d08b99820c00792cb42222/ecdsa-0.13-py2.py3-none-any.whl (86kB)
+
+... Collecting elasticsearch==2.1.0 (from -r /home/gnom/proplast/req.txt (line 52))
+
+...   Downloading https://files.pythonhosted.org/packages/e6/c3/d3677c8a6e5ee3c2b8ce83ffa14b9fed23f2965fcd07e5b962afb3b7c1b0/elasticsearch-2.1.0-py2.py3-none-any.whl (58kB)
+
+... Collecting elasticsearch-dsl==0.0.9 (from -r /home/gnom/proplast/req.txt (line 53))
+
+...   Downloading https://files.pythonhosted.org/packages/2a/b7/890e200f2cd1e22d1c987060c0a1af088731da5851766d2ca2f120ec8778/elasticsearch_dsl-0.0.9-py2.py3-none-any.whl
+
+... Requirement already satisfied: enum34==1.1.6 in /usr/lib/python2.7/dist-packages (from -r /home/gnom/proplast/req.txt (line 54)) (1.1.6)
+
+... Collecting et-xmlfile==1.0.1 (from -r /home/gnom/proplast/req.txt (line 55))
+
+...   Downloading https://files.pythonhosted.org/packages/22/28/a99c42aea746e18382ad9fb36f64c1c1f04216f41797f2f0fa567da11388/et_xmlfile-1.0.1.tar.gz
+
+... Collecting Fabric==1.10.2 (from -r /home/gnom/proplast/req.txt (line 56))
+
+...   Downloading https://files.pythonhosted.org/packages/ee/62/dc942156d7f8dc4792fea8fbec51518c907a043d420b34d2cc0a9306706d/Fabric-1.10.2-py2-none-any.whl (90kB)
+
+... Collecting fabtools==0.19.0 (from -r /home/gnom/proplast/req.txt (line 57))
+
+...   Downloading https://files.pythonhosted.org/packages/99/52/fb84dbef810886cda8ebd5af506c8f935e857a69ef2f67bb6c5ac2c4882d/fabtools-0.19.0.tar.gz (82kB)
+
+... Collecting flower==0.9.1 (from -r /home/gnom/proplast/req.txt (line 58))
+
+...   Downloading https://files.pythonhosted.org/packages/b4/94/39eff3d8727c03865e6693911a1d84295959238d932603d4dbf2069fe5c9/flower-0.9.1.tar.gz (3.9MB)
+
+... Collecting freezegun==0.3.7 (from -r /home/gnom/proplast/req.txt (line 59))
+
+...   Downloading https://files.pythonhosted.org/packages/68/7c/a6ac7d565482c74ddafe5c14b133ee3e65e1ac88e980eb357d83bd6d3e8b/freezegun-0.3.7.tar.gz
+
+... Collecting funcsigs==1.0.2 (from -r /home/gnom/proplast/req.txt (line 60))
+
+...   Downloading https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+
+... Collecting funcy==1.6 (from -r /home/gnom/proplast/req.txt (line 61))
+
+...   Downloading https://files.pythonhosted.org/packages/b8/81/37cab2771600d8b4f473bf5d6dad6e13dd3c3d16bbaedc0158d46d105b5e/funcy-1.6.tar.gz
+
+... Collecting futures==3.0.3 (from -r /home/gnom/proplast/req.txt (line 62))
+
+...   Downloading https://files.pythonhosted.org/packages/26/7d/a7e1130b63514cd7192f0ba0b53bdda7f96df88641ee0c97bfed8477f324/futures-3.0.3-py2-none-any.whl
+
+... Collecting google-api-python-client==1.6.1 (from -r /home/gnom/proplast/req.txt (line 63))
+
+...   Downloading https://files.pythonhosted.org/packages/39/5e/43480d270c68453dc1c440868053fb90c82ddf5fe4f804e71656d6238240/google_api_python_client-1.6.1-py2.py3-none-any.whl (52kB)
+
+... Collecting googlemaps==2.4.5 (from -r /home/gnom/proplast/req.txt (line 64))
+
+...   Downloading https://files.pythonhosted.org/packages/6a/90/8c6661c66ebf8dcc86bf79bf0c24088af4bbd3692b479406ae57617a2a78/googlemaps-2.4.5-py2-none-any.whl
+
+... Collecting gunicorn==19.3.0 (from -r /home/gnom/proplast/req.txt (line 65))
+
+...   Downloading https://files.pythonhosted.org/packages/80/1b/25eaf834e05c82233568cdada4a3ea373fd2bc27c447554a98e18def5494/gunicorn-19.3.0-py2.py3-none-any.whl (110kB)
+
+... Collecting html5lib==0.9999999 (from -r /home/gnom/proplast/req.txt (line 66))
+
+...   Downloading https://files.pythonhosted.org/packages/ae/ae/bcb60402c60932b32dfaf19bb53870b29eda2cd17551ba5639219fb5ebf9/html5lib-0.9999999.tar.gz (889kB)
+
+... Collecting http==0.2 (from -r /home/gnom/proplast/req.txt (line 67))
+
+...   Downloading https://files.pythonhosted.org/packages/e3/91/a9260805e532e33df273b8f7dffad5c51693f8f9ba5f86bedcf42a7f22eb/http-0.02.tar.gz
+
+... Collecting httplib2==0.10.3 (from -r /home/gnom/proplast/req.txt (line 68))
+
+...   Downloading https://files.pythonhosted.org/packages/e4/2e/a7e27d2c36076efeb8c0e519758968b20389adf57a9ce3af139891af2696/httplib2-0.10.3.tar.gz (204kB)
+
+... Collecting idna==2.5 (from -r /home/gnom/proplast/req.txt (line 69))
+
+...   Downloading https://files.pythonhosted.org/packages/11/7d/9bbbd7bb35f34b0169542487d2a8859e44306bb2e6a4455d491800a5621f/idna-2.5-py2.py3-none-any.whl (55kB)
+
+... Collecting ipaddress==1.0.18 (from -r /home/gnom/proplast/req.txt (line 70))
+
+...   Downloading https://files.pythonhosted.org/packages/17/93/28f4dd560780dd70fe75ce7e2662869770dfac181f6bbb472179ea8da516/ipaddress-1.0.18-py2-none-any.whl
+
+... Collecting ipdb==0.9.1 (from -r /home/gnom/proplast/req.txt (line 71))
+
+...   Downloading https://files.pythonhosted.org/packages/60/45/0de3450e207cdb72882c1765a1b8940a6ade931c79eb5e9fc27aae3b7de8/ipdb-0.9.1.tar.gz
+
+... Collecting ipython==4.1.2 (from -r /home/gnom/proplast/req.txt (line 72))
+
+...   Downloading https://files.pythonhosted.org/packages/80/eb/27a89210781827a904d4d0182044b3fbd2dd4c4537766a375a289f3eea83/ipython-4.1.2-py2-none-any.whl (736kB)
+
+... Collecting ipython-genutils==0.1.0 (from -r /home/gnom/proplast/req.txt (line 73))
+
+...   Downloading https://files.pythonhosted.org/packages/6a/b3/4ce580020d6be73770d55515a65aec9ed5f3ea95f09e00300e53fc264218/ipython_genutils-0.1.0-py2.py3-none-any.whl
+
+... Collecting jdcal==1.3 (from -r /home/gnom/proplast/req.txt (line 74))
+
+...   Downloading https://files.pythonhosted.org/packages/9b/fa/40beb2aa43a13f740dd5be367a10a03270043787833409c61b79e69f1dfd/jdcal-1.3.tar.gz
+
+... Collecting Jinja2==2.9.5 (from -r /home/gnom/proplast/req.txt (line 75))
+
+...   Downloading https://files.pythonhosted.org/packages/3c/d1/49d69bc23d0e0c7612248dd8f5391bd043648865132309616c280ca1c837/Jinja2-2.9.5-py2.py3-none-any.whl (340kB)
+
+... Collecting kombu==3.0.33 (from -r /home/gnom/proplast/req.txt (line 76))
+
+...   Downloading https://files.pythonhosted.org/packages/ad/ca/13d0265de94dbe4f685a2a5cd8c0123a4c90710352e94ccadc2e13098fc9/kombu-3.0.33-py2.py3-none-any.whl (239kB)
+
+... Collecting lxml==3.6.1 (from -r /home/gnom/proplast/req.txt (line 77))
+
+...   Downloading https://files.pythonhosted.org/packages/09/f3/c41293bc181b8c727cc485339dc57af653dae6d17d4c8dbf0cbac53cb4aa/lxml-3.6.1.tar.gz (3.7MB)
+
+... Collecting MarkupSafe==0.23 (from -r /home/gnom/proplast/req.txt (line 78))
+
+...   Downloading https://files.pythonhosted.org/packages/c0/41/bae1254e0396c0cc8cf1751cb7d9afc90a602353695af5952530482c963f/MarkupSafe-0.23.tar.gz
+
+... Collecting meld3==1.0.2 (from -r /home/gnom/proplast/req.txt (line 79))
+
+...   Downloading https://files.pythonhosted.org/packages/b6/ae/e6d731e4b9661642c1b20591d8054855bb5b8281cbfa18f561c2edd783f7/meld3-1.0.2-py2.py3-none-any.whl
+
+... Collecting mock==2.0.0 (from -r /home/gnom/proplast/req.txt (line 80))
+
+...   Downloading https://files.pythonhosted.org/packages/e6/35/f187bdf23be87092bd0f1200d43d23076cee4d0dec109f195173fd3ebc79/mock-2.0.0-py2.py3-none-any.whl (56kB)
+
+... Collecting model-mommy==1.2.6 (from -r /home/gnom/proplast/req.txt (line 81))
+
+...   Downloading https://files.pythonhosted.org/packages/77/c4/0eb60c907bef3489a11c655c1741c93a1d6f6f9ec1643b3a8a6634a3bd5d/model_mommy-1.2.6.tar.gz
+
+... Collecting mysqlclient==1.3.7 (from -r /home/gnom/proplast/req.txt (line 82))
+
+...   Downloading https://files.pythonhosted.org/packages/74/ff/4e964e20b559e55d7afa60fbccc6a560f2adf289813bd3d7eb4eb8a87093/mysqlclient-1.3.7.tar.gz (79kB)
+
+...     Complete output from command python setup.py egg_info:
+
+...     sh: 1: mysql_config: not found
+
+...     Traceback (most recent call last):
+
+...       File "<string>", line 1, in <module>
+
+...       File "/tmp/pip-install-yOTpEJ/mysqlclient/setup.py", line 17, in <module>
+
+...         metadata, options = get_config()
+
+...       File "setup_posix.py", line 44, in get_config
+
+...         libs = mysql_config("libs_r")
+
+...       File "setup_posix.py", line 26, in mysql_config
+
+...         raise EnvironmentError("%s not found" % (mysql_config.path,))
+
+...     EnvironmentError: mysql_config not found
+
+...     
+
+...     ----------------------------------------
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 93 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Collecting virtualenv
+
+...   Downloading https://files.pythonhosted.org/packages/33/5d/314c760d4204f64e4a968275182b7751bd5c3249094757b39ba987dcfb5a/virtualenv-16.4.3-py2.py3-none-any.whl (2.0MB)
+
+... Installing collected packages: virtualenv
+
+... Successfully installed virtualenv-16.4.3
+
+... Collecting alabaster==0.7.7 (from -r /home/gnom/proplast/req.txt (line 1))
+
+...   Using cached https://files.pythonhosted.org/packages/25/e6/86e30d0d818955e92ee37c64f92a7a3b2cb4bbdd07a7e74a6a7c028c1f3a/alabaster-0.7.7-py2.py3-none-any.whl
+
+... Collecting amqp==1.4.9 (from -r /home/gnom/proplast/req.txt (line 2))
+
+...   Using cached https://files.pythonhosted.org/packages/ed/09/314d2788aba0aa91f2578071a6484f87a615172a98c309c2aad3433da90b/amqp-1.4.9-py2.py3-none-any.whl
+
+... Collecting ansible==2.3.0.0 (from -r /home/gnom/proplast/req.txt (line 3))
+
+...   Using cached https://files.pythonhosted.org/packages/65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz
+
+... Collecting anyjson==0.3.3 (from -r /home/gnom/proplast/req.txt (line 4))
+
+...   Using cached https://files.pythonhosted.org/packages/c3/4d/d4089e1a3dd25b46bebdb55a992b0797cff657b4477bc32ce28038fdecbc/anyjson-0.3.3.tar.gz
+
+... Collecting appdirs==1.4.3 (from -r /home/gnom/proplast/req.txt (line 5))
+
+...   Using cached https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl
+
+... Collecting asn1crypto==0.22.0 (from -r /home/gnom/proplast/req.txt (line 6))
+
+...   Using cached https://files.pythonhosted.org/packages/97/ba/7e8117d8efcee589f4d96dd2b2eb1d997f96d27d214cf2b7134ad8acf6ab/asn1crypto-0.22.0-py2.py3-none-any.whl
+
+... Collecting Babel==2.2.0 (from -r /home/gnom/proplast/req.txt (line 7))
+
+...   Using cached https://files.pythonhosted.org/packages/33/0e/7428041cddc3ff6e9a0f11cd2464b8bf6caed1b3879fcb9cf064f1ac7675/Babel-2.2.0-py2.py3-none-any.whl
+
+... Collecting backports.ssl-match-hostname==3.5.0.1 (from -r /home/gnom/proplast/req.txt (line 8))
+
+...   Using cached https://files.pythonhosted.org/packages/76/21/2dc61178a2038a5cb35d14b61467c6ac632791ed05131dda72c20e7b9e23/backports.ssl_match_hostname-3.5.0.1.tar.gz
+
+... Collecting billiard==3.3.0.21 (from -r /home/gnom/proplast/req.txt (line 9))
+
+...   Using cached https://files.pythonhosted.org/packages/65/8d/e992b90735a6fc2a9f360e3cfbece33dec1b1914e12c590c36f1b5aced57/billiard-3.3.0.21.tar.gz
+
+... Collecting bleach==1.4.2 (from -r /home/gnom/proplast/req.txt (line 10))
+
+...   Using cached https://files.pythonhosted.org/packages/98/40/b2fc4d7a22ca89e58c6bcda0bccfff5b61bfcc19a11f9d037df004316088/bleach-1.4.2-py2.py3-none-any.whl
+
+... Collecting bootstrap-admin==0.3.6 (from -r /home/gnom/proplast/req.txt (line 11))
+
+...   Using cached https://files.pythonhosted.org/packages/10/92/b6cfc89575572d8f87c18357a90088fb5aa99a047b18198b0a5a211cf4f7/bootstrap_admin-0.3.6.tar.gz
+
+... Collecting celery==3.1.19 (from -r /home/gnom/proplast/req.txt (line 12))
+
+...   Using cached https://files.pythonhosted.org/packages/55/e1/65d2b3ded641a5388055bdd8845a9a8e5b60e0bfd8280fc2bd85f931dc3a/celery-3.1.19-py2.py3-none-any.whl
+
+... Collecting celery-haystack==0.10 (from -r /home/gnom/proplast/req.txt (line 13))
+
+...   Using cached https://files.pythonhosted.org/packages/5c/62/0565be8831b3bf34e71b67711ff998d9ec9916d7be0df59789cdb6edc17e/celery_haystack-0.10-py2.py3-none-any.whl
+
+... Collecting celery-with-redis==3.0 (from -r /home/gnom/proplast/req.txt (line 14))
+
+...   Using cached https://files.pythonhosted.org/packages/d8/f4/40cfec02451a8a9c911ac67080e39a5ae8ab9100ff79b0c0531898d4bff7/celery-with-redis-3.0.tar.gz
+
+... Collecting certifi==2017.4.17 (from -r /home/gnom/proplast/req.txt (line 15))
+
+...   Using cached https://files.pythonhosted.org/packages/eb/01/c1f58987b777d6c4ec535b4e004a4a07bfc9db06f0c7533367ca6da8f2a6/certifi-2017.4.17-py2.py3-none-any.whl
+
+... Collecting cffi==1.10.0 (from -r /home/gnom/proplast/req.txt (line 16))
+
+...   Using cached https://files.pythonhosted.org/packages/50/85/d74d06ac09fc2deb3d9bd6d6aca4ca13d82b8118c04494cd0e84fcd81624/cffi-1.10.0-cp27-cp27mu-manylinux1_x86_64.whl
+
+... Collecting click==6.7 (from -r /home/gnom/proplast/req.txt (line 17))
+
+...   Using cached https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl
+
+... Collecting cssselect==0.9.2 (from -r /home/gnom/proplast/req.txt (line 18))
+
+...   Using cached https://files.pythonhosted.org/packages/61/8d/298396b86d65ef62e5913dc5153fbc51576a56656994dd9d31df84967190/cssselect-0.9.2-py2.py3-none-any.whl
+
+... Collecting DAWG-Python==0.7.2 (from -r /home/gnom/proplast/req.txt (line 19))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/84/ff1ce2071d4c650ec85745766c0047ccc3b5036f1d03559fd46bb38b5eeb/DAWG_Python-0.7.2-py2.py3-none-any.whl
+
+... Collecting decorator==4.0.9 (from -r /home/gnom/proplast/req.txt (line 20))
+
+...   Using cached https://files.pythonhosted.org/packages/7d/ca/493b2377bf42d57bdd985c31975be3d2b500ad9079199cecb7633e8e2cde/decorator-4.0.9-py2.py3-none-any.whl
+
+... Collecting Django==1.8.15 (from -r /home/gnom/proplast/req.txt (line 21))
+
+...   Using cached https://files.pythonhosted.org/packages/f3/bb/865626b78c2e87acd4dc1bd8f8cb0a49582ec65e40968f3d24f594bba600/Django-1.8.15-py2.py3-none-any.whl
+
+... Collecting django-appconf==1.0.1 (from -r /home/gnom/proplast/req.txt (line 22))
+
+...   Using cached https://files.pythonhosted.org/packages/89/06/f12bac3e71c1dbea27bfa1ffb1720acd2b0bb11eb344f5b77d9a7d64e574/django_appconf-1.0.1-py2.py3-none-any.whl
+
+... Collecting django-autofixture==0.11.0 (from -r /home/gnom/proplast/req.txt (line 23))
+
+...   Using cached https://files.pythonhosted.org/packages/3a/67/2bb4ae31fc0ea16eda7e5ad1016c089404a3e387c6f1589fe0e66d19dab2/django-autofixture-0.11.0.tar.gz
+
+... Collecting django-bleach==0.3.0 (from -r /home/gnom/proplast/req.txt (line 24))
+
+...   Using cached https://files.pythonhosted.org/packages/5a/12/3a6ec6d8aae68562a9c662f0e2fd15da3d85f681cc759852b2ac40e9db43/django-bleach-0.3.0.tar.gz
+
+... Collecting django-cacheops==2.4.3 (from -r /home/gnom/proplast/req.txt (line 25))
+
+...   Using cached https://files.pythonhosted.org/packages/5e/9c/442b8496079c563b1ec000020bd56131d6ff0e093deb3ce0e127828595ed/django-cacheops-2.4.3.tar.gz
+
+... Collecting django-celery==3.1.17 (from -r /home/gnom/proplast/req.txt (line 26))
+
+...   Using cached https://files.pythonhosted.org/packages/56/cc/6b9731091887dcb1c76ef48521e580bb2b0f469e6f4934072aac75a478f3/django-celery-3.1.17.tar.gz
+
+... Collecting django-ckeditor==5.2.2 (from -r /home/gnom/proplast/req.txt (line 27))
+
+...   Using cached https://files.pythonhosted.org/packages/b1/f8/c427cbb8b71b601162a2f812e43c4e0b71b4653e5ca70137f1bc368712ff/django-ckeditor-5.2.2.tar.gz
+
+... Collecting django-crispy-forms==1.6.0 (from -r /home/gnom/proplast/req.txt (line 28))
+
+...   Using cached https://files.pythonhosted.org/packages/f2/e7/62c67158cb4617c9b56ea069b179abb1a8436fe98c485725e44a2c694f28/django_crispy_forms-1.6.0-py2-none-any.whl
+
+... Collecting django-debug-toolbar==1.4 (from -r /home/gnom/proplast/req.txt (line 29))
+
+...   Using cached https://files.pythonhosted.org/packages/f6/b2/f7849bedd8bf29bed59d5dc60a979b0f18f73d4fc36e4d5deff9f8d0dbd8/django_debug_toolbar-1.4-py2.py3-none-any.whl
+
+... Collecting django-elasticsearch-debug-toolbar==1.0.3 (from -r /home/gnom/proplast/req.txt (line 30))
+
+...   Using cached https://files.pythonhosted.org/packages/5f/16/9f6986a42a933c317ce5f6cd2de5da6a07e4668e7b6c2bb95ed09151ff3f/django-elasticsearch-debug-toolbar-1.0.3.tar.gz
+
+... Collecting django-embed-video==1.1.2 (from -r /home/gnom/proplast/req.txt (line 31))
+
+...   Using cached https://files.pythonhosted.org/packages/1d/c0/9e7e8033256aac4feab495ba334cee6bbf14ef41cdad734d9f687d7128eb/django-embed-video-1.1.2.tar.gz
+
+... Collecting django-extensions==1.6.1 (from -r /home/gnom/proplast/req.txt (line 32))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/a16d75b21a242f143d6e8be5432579da60bc90ed2ddc3fd9c6febe9c722c/django_extensions-1.6.1-py2.py3-none-any.whl
+
+... Collecting django-geoip==0.5.2 (from -r /home/gnom/proplast/req.txt (line 33))
+
+...   Using cached https://files.pythonhosted.org/packages/68/4b/94cfb102e45daff5853c713bc89c7cc097e797560a1b1d51c4d7d2364989/django-geoip-0.5.2.tar.gz
+
+... Collecting django-jinja==2.2.2 (from -r /home/gnom/proplast/req.txt (line 34))
+
+...   Using cached https://files.pythonhosted.org/packages/a0/ed/651dff14c9a9a93417ec548fabaa628b5f92bb50a74d87f461c2a1d43bef/django-jinja-2.2.2.tar.gz
+
+... Collecting django-kombu==0.9.4 (from -r /home/gnom/proplast/req.txt (line 35))
+
+...   Using cached https://files.pythonhosted.org/packages/db/f0/1df762ff6d9bcbcabc8a13980b8a7765233b1113b727d8d1e7266d8f00d6/django-kombu-0.9.4.tar.gz
+
+... Collecting django-mptt==0.8.7 (from -r /home/gnom/proplast/req.txt (line 36))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/8d/2d7fb86ea36a7cc144ba0516c78dde429746e7df5ced903cbb5aaa8fb20e/django_mptt-0.8.7-py2.py3-none-any.whl
+
+... Collecting django-mptt-admin==0.3.0 (from -r /home/gnom/proplast/req.txt (line 37))
+
+...   Using cached https://files.pythonhosted.org/packages/f1/65/e68d71e03a04034d70013ec664af84216848ab7b0f0427b76d7086097986/django_mptt_admin-0.3.0-py2.py3-none-any.whl
+
+... Collecting django-pipeline==1.5.4 (from -r /home/gnom/proplast/req.txt (line 38))
+
+...   Using cached https://files.pythonhosted.org/packages/ef/58/4e5a373bb2915c1736c1223d1f8cb39741377337bd8f1cf8d3e93aaf6a7e/django_pipeline-1.5.4-py2.py3-none-any.whl
+
+... Collecting django-redis==4.4.1 (from -r /home/gnom/proplast/req.txt (line 39))
+
+...   Using cached https://files.pythonhosted.org/packages/36/da/acfaa2ecf99e07fb00153ad959e41c958e9780c3b7a935591b5d4d0a0ba8/django-redis-4.4.1.tar.gz
+
+... Collecting django-reversion==2.0.6 (from -r /home/gnom/proplast/req.txt (line 40))
+
+...   Using cached https://files.pythonhosted.org/packages/54/9f/5a1c95a6b601270dd2de0d5fbbfb4017cde20bcac200228f5ff1e4937cdd/django-reversion-2.0.6.tar.gz
+
+... Collecting django-reversion-compare==0.7.2 (from -r /home/gnom/proplast/req.txt (line 41))
+
+...   Using cached https://files.pythonhosted.org/packages/7a/e2/002468a620c74679c8cc03c6255d50047545c36cf19138522601aa80fa86/django_reversion_compare-0.7.2-py2.py3-none-any.whl
+
+... Collecting Django-Select2==5.8.4 (from -r /home/gnom/proplast/req.txt (line 42))
+
+...   Using cached https://files.pythonhosted.org/packages/ce/79/447bbc787de2fccec4fb922dc504292c2532728f0dc60728f1a182bf2745/Django-Select2-5.8.4.tar.gz
+
+... Collecting django-smart-selects==1.3.4 (from -r /home/gnom/proplast/req.txt (line 43))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/76/e21f0318ec15500e7122862e09ed97b2a4fbcb5e2b41d512ee54084d0ed5/django-smart-selects-1.3.4.tar.gz
+
+... Collecting django-taggit==0.22.0 (from -r /home/gnom/proplast/req.txt (line 44))
+
+...   Using cached https://files.pythonhosted.org/packages/64/4d/006cf0f139d27bc19fb4afeb0c3af25ecb4d91a14339cf045137521a3f4d/django_taggit-0.22.0-py2.py3-none-any.whl
+
+... Collecting django-taggit-helpers==0.1.4 (from -r /home/gnom/proplast/req.txt (line 45))
+
+...   Using cached https://files.pythonhosted.org/packages/89/75/c9814bd50dca05cb7b4ef0abc47d2a4d3993a2863e45b112d09b509708bf/django_taggit_helpers-0.1.4-py2.py3-none-any.whl
+
+... Collecting django-tastypie==0.12.2 (from -r /home/gnom/proplast/req.txt (line 46))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/b8/7410ae424b85d7a8d1a61df6f928561f64b0b309726865db0408530757bd/django_tastypie-0.12.2-py2.py3-none-any.whl
+
+... Collecting django-transaction-hooks==0.2 (from -r /home/gnom/proplast/req.txt (line 47))
+
+...   Using cached https://files.pythonhosted.org/packages/60/f0/04ea2d937a44d94043a0ce8d4dec3328b36faa5d4b3c893478165c0aa259/django-transaction-hooks-0.2.tar.gz
+
+... Collecting django-wysiwyg-redactor==0.4.9 (from -r /home/gnom/proplast/req.txt (line 48))
+
+...   Using cached https://files.pythonhosted.org/packages/71/23/9b28609666dc46ffc005f157656b3ed843ba14f97f6e0c310084bdcec814/django-wysiwyg-redactor-0.4.9.tar.gz
+
+... Collecting docopt==0.6.2 (from -r /home/gnom/proplast/req.txt (line 49))
+
+...   Using cached https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
+
+... Collecting docutils==0.12 (from -r /home/gnom/proplast/req.txt (line 50))
+
+...   Using cached https://files.pythonhosted.org/packages/37/38/ceda70135b9144d84884ae2fc5886c6baac4edea39550f28bcd144c1234d/docutils-0.12.tar.gz
+
+... Collecting ecdsa==0.13 (from -r /home/gnom/proplast/req.txt (line 51))
+
+...   Using cached https://files.pythonhosted.org/packages/63/f4/73669d51825516ce8c43b816c0a6b64cd6eb71d08b99820c00792cb42222/ecdsa-0.13-py2.py3-none-any.whl
+
+... Collecting elasticsearch==2.1.0 (from -r /home/gnom/proplast/req.txt (line 52))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/c3/d3677c8a6e5ee3c2b8ce83ffa14b9fed23f2965fcd07e5b962afb3b7c1b0/elasticsearch-2.1.0-py2.py3-none-any.whl
+
+... Collecting elasticsearch-dsl==0.0.9 (from -r /home/gnom/proplast/req.txt (line 53))
+
+...   Using cached https://files.pythonhosted.org/packages/2a/b7/890e200f2cd1e22d1c987060c0a1af088731da5851766d2ca2f120ec8778/elasticsearch_dsl-0.0.9-py2.py3-none-any.whl
+
+... Requirement already satisfied: enum34==1.1.6 in /usr/lib/python2.7/dist-packages (from -r /home/gnom/proplast/req.txt (line 54)) (1.1.6)
+
+... Collecting et-xmlfile==1.0.1 (from -r /home/gnom/proplast/req.txt (line 55))
+
+...   Using cached https://files.pythonhosted.org/packages/22/28/a99c42aea746e18382ad9fb36f64c1c1f04216f41797f2f0fa567da11388/et_xmlfile-1.0.1.tar.gz
+
+... Collecting Fabric==1.10.2 (from -r /home/gnom/proplast/req.txt (line 56))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/dc942156d7f8dc4792fea8fbec51518c907a043d420b34d2cc0a9306706d/Fabric-1.10.2-py2-none-any.whl
+
+... Collecting fabtools==0.19.0 (from -r /home/gnom/proplast/req.txt (line 57))
+
+...   Using cached https://files.pythonhosted.org/packages/99/52/fb84dbef810886cda8ebd5af506c8f935e857a69ef2f67bb6c5ac2c4882d/fabtools-0.19.0.tar.gz
+
+... Collecting flower==0.9.1 (from -r /home/gnom/proplast/req.txt (line 58))
+
+...   Using cached https://files.pythonhosted.org/packages/b4/94/39eff3d8727c03865e6693911a1d84295959238d932603d4dbf2069fe5c9/flower-0.9.1.tar.gz
+
+... Collecting freezegun==0.3.7 (from -r /home/gnom/proplast/req.txt (line 59))
+
+...   Using cached https://files.pythonhosted.org/packages/68/7c/a6ac7d565482c74ddafe5c14b133ee3e65e1ac88e980eb357d83bd6d3e8b/freezegun-0.3.7.tar.gz
+
+... Collecting funcsigs==1.0.2 (from -r /home/gnom/proplast/req.txt (line 60))
+
+...   Using cached https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+
+... Collecting funcy==1.6 (from -r /home/gnom/proplast/req.txt (line 61))
+
+...   Using cached https://files.pythonhosted.org/packages/b8/81/37cab2771600d8b4f473bf5d6dad6e13dd3c3d16bbaedc0158d46d105b5e/funcy-1.6.tar.gz
+
+... Collecting futures==3.0.3 (from -r /home/gnom/proplast/req.txt (line 62))
+
+...   Using cached https://files.pythonhosted.org/packages/26/7d/a7e1130b63514cd7192f0ba0b53bdda7f96df88641ee0c97bfed8477f324/futures-3.0.3-py2-none-any.whl
+
+... Collecting google-api-python-client==1.6.1 (from -r /home/gnom/proplast/req.txt (line 63))
+
+...   Using cached https://files.pythonhosted.org/packages/39/5e/43480d270c68453dc1c440868053fb90c82ddf5fe4f804e71656d6238240/google_api_python_client-1.6.1-py2.py3-none-any.whl
+
+... Collecting googlemaps==2.4.5 (from -r /home/gnom/proplast/req.txt (line 64))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/90/8c6661c66ebf8dcc86bf79bf0c24088af4bbd3692b479406ae57617a2a78/googlemaps-2.4.5-py2-none-any.whl
+
+... Collecting gunicorn==19.3.0 (from -r /home/gnom/proplast/req.txt (line 65))
+
+...   Using cached https://files.pythonhosted.org/packages/80/1b/25eaf834e05c82233568cdada4a3ea373fd2bc27c447554a98e18def5494/gunicorn-19.3.0-py2.py3-none-any.whl
+
+... Collecting html5lib==0.9999999 (from -r /home/gnom/proplast/req.txt (line 66))
+
+...   Using cached https://files.pythonhosted.org/packages/ae/ae/bcb60402c60932b32dfaf19bb53870b29eda2cd17551ba5639219fb5ebf9/html5lib-0.9999999.tar.gz
+
+... Collecting http==0.2 (from -r /home/gnom/proplast/req.txt (line 67))
+
+...   Using cached https://files.pythonhosted.org/packages/e3/91/a9260805e532e33df273b8f7dffad5c51693f8f9ba5f86bedcf42a7f22eb/http-0.02.tar.gz
+
+... Collecting httplib2==0.10.3 (from -r /home/gnom/proplast/req.txt (line 68))
+
+...   Using cached https://files.pythonhosted.org/packages/e4/2e/a7e27d2c36076efeb8c0e519758968b20389adf57a9ce3af139891af2696/httplib2-0.10.3.tar.gz
+
+... Collecting idna==2.5 (from -r /home/gnom/proplast/req.txt (line 69))
+
+...   Using cached https://files.pythonhosted.org/packages/11/7d/9bbbd7bb35f34b0169542487d2a8859e44306bb2e6a4455d491800a5621f/idna-2.5-py2.py3-none-any.whl
+
+... Collecting ipaddress==1.0.18 (from -r /home/gnom/proplast/req.txt (line 70))
+
+...   Using cached https://files.pythonhosted.org/packages/17/93/28f4dd560780dd70fe75ce7e2662869770dfac181f6bbb472179ea8da516/ipaddress-1.0.18-py2-none-any.whl
+
+... Collecting ipdb==0.9.1 (from -r /home/gnom/proplast/req.txt (line 71))
+
+...   Using cached https://files.pythonhosted.org/packages/60/45/0de3450e207cdb72882c1765a1b8940a6ade931c79eb5e9fc27aae3b7de8/ipdb-0.9.1.tar.gz
+
+... Collecting ipython==4.1.2 (from -r /home/gnom/proplast/req.txt (line 72))
+
+...   Using cached https://files.pythonhosted.org/packages/80/eb/27a89210781827a904d4d0182044b3fbd2dd4c4537766a375a289f3eea83/ipython-4.1.2-py2-none-any.whl
+
+... Collecting ipython-genutils==0.1.0 (from -r /home/gnom/proplast/req.txt (line 73))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/b3/4ce580020d6be73770d55515a65aec9ed5f3ea95f09e00300e53fc264218/ipython_genutils-0.1.0-py2.py3-none-any.whl
+
+... Collecting jdcal==1.3 (from -r /home/gnom/proplast/req.txt (line 74))
+
+...   Using cached https://files.pythonhosted.org/packages/9b/fa/40beb2aa43a13f740dd5be367a10a03270043787833409c61b79e69f1dfd/jdcal-1.3.tar.gz
+
+... Collecting Jinja2==2.9.5 (from -r /home/gnom/proplast/req.txt (line 75))
+
+...   Using cached https://files.pythonhosted.org/packages/3c/d1/49d69bc23d0e0c7612248dd8f5391bd043648865132309616c280ca1c837/Jinja2-2.9.5-py2.py3-none-any.whl
+
+... Collecting kombu==3.0.33 (from -r /home/gnom/proplast/req.txt (line 76))
+
+...   Using cached https://files.pythonhosted.org/packages/ad/ca/13d0265de94dbe4f685a2a5cd8c0123a4c90710352e94ccadc2e13098fc9/kombu-3.0.33-py2.py3-none-any.whl
+
+... Collecting lxml==3.6.1 (from -r /home/gnom/proplast/req.txt (line 77))
+
+...   Using cached https://files.pythonhosted.org/packages/09/f3/c41293bc181b8c727cc485339dc57af653dae6d17d4c8dbf0cbac53cb4aa/lxml-3.6.1.tar.gz
+
+... Collecting MarkupSafe==0.23 (from -r /home/gnom/proplast/req.txt (line 78))
+
+...   Using cached https://files.pythonhosted.org/packages/c0/41/bae1254e0396c0cc8cf1751cb7d9afc90a602353695af5952530482c963f/MarkupSafe-0.23.tar.gz
+
+... Collecting meld3==1.0.2 (from -r /home/gnom/proplast/req.txt (line 79))
+
+...   Using cached https://files.pythonhosted.org/packages/b6/ae/e6d731e4b9661642c1b20591d8054855bb5b8281cbfa18f561c2edd783f7/meld3-1.0.2-py2.py3-none-any.whl
+
+... Collecting mock==2.0.0 (from -r /home/gnom/proplast/req.txt (line 80))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/35/f187bdf23be87092bd0f1200d43d23076cee4d0dec109f195173fd3ebc79/mock-2.0.0-py2.py3-none-any.whl
+
+... Collecting model-mommy==1.2.6 (from -r /home/gnom/proplast/req.txt (line 81))
+
+...   Using cached https://files.pythonhosted.org/packages/77/c4/0eb60c907bef3489a11c655c1741c93a1d6f6f9ec1643b3a8a6634a3bd5d/model_mommy-1.2.6.tar.gz
+
+... Collecting mysqlclient==1.3.7 (from -r /home/gnom/proplast/req.txt (line 82))
+
+...   Using cached https://files.pythonhosted.org/packages/74/ff/4e964e20b559e55d7afa60fbccc6a560f2adf289813bd3d7eb4eb8a87093/mysqlclient-1.3.7.tar.gz
+
+...     Complete output from command python setup.py egg_info:
+
+...     sh: 1: mysql_config: not found
+
+...     Traceback (most recent call last):
+
+...       File "<string>", line 1, in <module>
+
+...       File "/tmp/pip-install-BVBow3/mysqlclient/setup.py", line 17, in <module>
+
+...         metadata, options = get_config()
+
+...       File "setup_posix.py", line 44, in get_config
+
+...         libs = mysql_config("libs_r")
+
+...       File "setup_posix.py", line 26, in mysql_config
+
+...         raise EnvironmentError("%s not found" % (mysql_config.path,))
+
+...     EnvironmentError: mysql_config not found
+
+...     
+
+...     ----------------------------------------
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 93 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages (16.4.3)
+
+... Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages (16.4.3)
+
+... Collecting alabaster==0.7.7 (from -r /home/gnom/proplast/req.txt (line 1))
+
+...   Using cached https://files.pythonhosted.org/packages/25/e6/86e30d0d818955e92ee37c64f92a7a3b2cb4bbdd07a7e74a6a7c028c1f3a/alabaster-0.7.7-py2.py3-none-any.whl
+
+... Collecting amqp==1.4.9 (from -r /home/gnom/proplast/req.txt (line 2))
+
+...   Using cached https://files.pythonhosted.org/packages/ed/09/314d2788aba0aa91f2578071a6484f87a615172a98c309c2aad3433da90b/amqp-1.4.9-py2.py3-none-any.whl
+
+... Collecting ansible==2.3.0.0 (from -r /home/gnom/proplast/req.txt (line 3))
+
+...   Using cached https://files.pythonhosted.org/packages/65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz
+
+... Collecting anyjson==0.3.3 (from -r /home/gnom/proplast/req.txt (line 4))
+
+...   Using cached https://files.pythonhosted.org/packages/c3/4d/d4089e1a3dd25b46bebdb55a992b0797cff657b4477bc32ce28038fdecbc/anyjson-0.3.3.tar.gz
+
+... Collecting appdirs==1.4.3 (from -r /home/gnom/proplast/req.txt (line 5))
+
+...   Using cached https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl
+
+... Collecting asn1crypto==0.22.0 (from -r /home/gnom/proplast/req.txt (line 6))
+
+...   Using cached https://files.pythonhosted.org/packages/97/ba/7e8117d8efcee589f4d96dd2b2eb1d997f96d27d214cf2b7134ad8acf6ab/asn1crypto-0.22.0-py2.py3-none-any.whl
+
+... Collecting Babel==2.2.0 (from -r /home/gnom/proplast/req.txt (line 7))
+
+...   Using cached https://files.pythonhosted.org/packages/33/0e/7428041cddc3ff6e9a0f11cd2464b8bf6caed1b3879fcb9cf064f1ac7675/Babel-2.2.0-py2.py3-none-any.whl
+
+... Collecting backports.ssl-match-hostname==3.5.0.1 (from -r /home/gnom/proplast/req.txt (line 8))
+
+...   Using cached https://files.pythonhosted.org/packages/76/21/2dc61178a2038a5cb35d14b61467c6ac632791ed05131dda72c20e7b9e23/backports.ssl_match_hostname-3.5.0.1.tar.gz
+
+... Collecting billiard==3.3.0.21 (from -r /home/gnom/proplast/req.txt (line 9))
+
+...   Using cached https://files.pythonhosted.org/packages/65/8d/e992b90735a6fc2a9f360e3cfbece33dec1b1914e12c590c36f1b5aced57/billiard-3.3.0.21.tar.gz
+
+... Collecting bleach==1.4.2 (from -r /home/gnom/proplast/req.txt (line 10))
+
+...   Using cached https://files.pythonhosted.org/packages/98/40/b2fc4d7a22ca89e58c6bcda0bccfff5b61bfcc19a11f9d037df004316088/bleach-1.4.2-py2.py3-none-any.whl
+
+... Collecting bootstrap-admin==0.3.6 (from -r /home/gnom/proplast/req.txt (line 11))
+
+...   Using cached https://files.pythonhosted.org/packages/10/92/b6cfc89575572d8f87c18357a90088fb5aa99a047b18198b0a5a211cf4f7/bootstrap_admin-0.3.6.tar.gz
+
+... Collecting celery==3.1.19 (from -r /home/gnom/proplast/req.txt (line 12))
+
+...   Using cached https://files.pythonhosted.org/packages/55/e1/65d2b3ded641a5388055bdd8845a9a8e5b60e0bfd8280fc2bd85f931dc3a/celery-3.1.19-py2.py3-none-any.whl
+
+... Collecting celery-haystack==0.10 (from -r /home/gnom/proplast/req.txt (line 13))
+
+...   Using cached https://files.pythonhosted.org/packages/5c/62/0565be8831b3bf34e71b67711ff998d9ec9916d7be0df59789cdb6edc17e/celery_haystack-0.10-py2.py3-none-any.whl
+
+... Collecting celery-with-redis==3.0 (from -r /home/gnom/proplast/req.txt (line 14))
+
+...   Using cached https://files.pythonhosted.org/packages/d8/f4/40cfec02451a8a9c911ac67080e39a5ae8ab9100ff79b0c0531898d4bff7/celery-with-redis-3.0.tar.gz
+
+... Collecting certifi==2017.4.17 (from -r /home/gnom/proplast/req.txt (line 15))
+
+...   Using cached https://files.pythonhosted.org/packages/eb/01/c1f58987b777d6c4ec535b4e004a4a07bfc9db06f0c7533367ca6da8f2a6/certifi-2017.4.17-py2.py3-none-any.whl
+
+... Collecting cffi==1.10.0 (from -r /home/gnom/proplast/req.txt (line 16))
+
+...   Using cached https://files.pythonhosted.org/packages/50/85/d74d06ac09fc2deb3d9bd6d6aca4ca13d82b8118c04494cd0e84fcd81624/cffi-1.10.0-cp27-cp27mu-manylinux1_x86_64.whl
+
+... Collecting click==6.7 (from -r /home/gnom/proplast/req.txt (line 17))
+
+...   Using cached https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl
+
+... Collecting cssselect==0.9.2 (from -r /home/gnom/proplast/req.txt (line 18))
+
+...   Using cached https://files.pythonhosted.org/packages/61/8d/298396b86d65ef62e5913dc5153fbc51576a56656994dd9d31df84967190/cssselect-0.9.2-py2.py3-none-any.whl
+
+... Collecting DAWG-Python==0.7.2 (from -r /home/gnom/proplast/req.txt (line 19))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/84/ff1ce2071d4c650ec85745766c0047ccc3b5036f1d03559fd46bb38b5eeb/DAWG_Python-0.7.2-py2.py3-none-any.whl
+
+... Collecting decorator==4.0.9 (from -r /home/gnom/proplast/req.txt (line 20))
+
+...   Using cached https://files.pythonhosted.org/packages/7d/ca/493b2377bf42d57bdd985c31975be3d2b500ad9079199cecb7633e8e2cde/decorator-4.0.9-py2.py3-none-any.whl
+
+... Collecting Django==1.8.15 (from -r /home/gnom/proplast/req.txt (line 21))
+
+...   Using cached https://files.pythonhosted.org/packages/f3/bb/865626b78c2e87acd4dc1bd8f8cb0a49582ec65e40968f3d24f594bba600/Django-1.8.15-py2.py3-none-any.whl
+
+... Collecting django-appconf==1.0.1 (from -r /home/gnom/proplast/req.txt (line 22))
+
+...   Using cached https://files.pythonhosted.org/packages/89/06/f12bac3e71c1dbea27bfa1ffb1720acd2b0bb11eb344f5b77d9a7d64e574/django_appconf-1.0.1-py2.py3-none-any.whl
+
+... Collecting django-autofixture==0.11.0 (from -r /home/gnom/proplast/req.txt (line 23))
+
+...   Using cached https://files.pythonhosted.org/packages/3a/67/2bb4ae31fc0ea16eda7e5ad1016c089404a3e387c6f1589fe0e66d19dab2/django-autofixture-0.11.0.tar.gz
+
+... Collecting django-bleach==0.3.0 (from -r /home/gnom/proplast/req.txt (line 24))
+
+...   Using cached https://files.pythonhosted.org/packages/5a/12/3a6ec6d8aae68562a9c662f0e2fd15da3d85f681cc759852b2ac40e9db43/django-bleach-0.3.0.tar.gz
+
+... Collecting django-cacheops==2.4.3 (from -r /home/gnom/proplast/req.txt (line 25))
+
+...   Using cached https://files.pythonhosted.org/packages/5e/9c/442b8496079c563b1ec000020bd56131d6ff0e093deb3ce0e127828595ed/django-cacheops-2.4.3.tar.gz
+
+... Collecting django-celery==3.1.17 (from -r /home/gnom/proplast/req.txt (line 26))
+
+...   Using cached https://files.pythonhosted.org/packages/56/cc/6b9731091887dcb1c76ef48521e580bb2b0f469e6f4934072aac75a478f3/django-celery-3.1.17.tar.gz
+
+... Collecting django-ckeditor==5.2.2 (from -r /home/gnom/proplast/req.txt (line 27))
+
+...   Using cached https://files.pythonhosted.org/packages/b1/f8/c427cbb8b71b601162a2f812e43c4e0b71b4653e5ca70137f1bc368712ff/django-ckeditor-5.2.2.tar.gz
+
+... Collecting django-crispy-forms==1.6.0 (from -r /home/gnom/proplast/req.txt (line 28))
+
+...   Using cached https://files.pythonhosted.org/packages/f2/e7/62c67158cb4617c9b56ea069b179abb1a8436fe98c485725e44a2c694f28/django_crispy_forms-1.6.0-py2-none-any.whl
+
+... Collecting django-debug-toolbar==1.4 (from -r /home/gnom/proplast/req.txt (line 29))
+
+...   Using cached https://files.pythonhosted.org/packages/f6/b2/f7849bedd8bf29bed59d5dc60a979b0f18f73d4fc36e4d5deff9f8d0dbd8/django_debug_toolbar-1.4-py2.py3-none-any.whl
+
+... Collecting django-elasticsearch-debug-toolbar==1.0.3 (from -r /home/gnom/proplast/req.txt (line 30))
+
+...   Using cached https://files.pythonhosted.org/packages/5f/16/9f6986a42a933c317ce5f6cd2de5da6a07e4668e7b6c2bb95ed09151ff3f/django-elasticsearch-debug-toolbar-1.0.3.tar.gz
+
+... Collecting django-embed-video==1.1.2 (from -r /home/gnom/proplast/req.txt (line 31))
+
+...   Using cached https://files.pythonhosted.org/packages/1d/c0/9e7e8033256aac4feab495ba334cee6bbf14ef41cdad734d9f687d7128eb/django-embed-video-1.1.2.tar.gz
+
+... Collecting django-extensions==1.6.1 (from -r /home/gnom/proplast/req.txt (line 32))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/a16d75b21a242f143d6e8be5432579da60bc90ed2ddc3fd9c6febe9c722c/django_extensions-1.6.1-py2.py3-none-any.whl
+
+... Collecting django-geoip==0.5.2 (from -r /home/gnom/proplast/req.txt (line 33))
+
+...   Using cached https://files.pythonhosted.org/packages/68/4b/94cfb102e45daff5853c713bc89c7cc097e797560a1b1d51c4d7d2364989/django-geoip-0.5.2.tar.gz
+
+... Collecting django-jinja==2.2.2 (from -r /home/gnom/proplast/req.txt (line 34))
+
+...   Using cached https://files.pythonhosted.org/packages/a0/ed/651dff14c9a9a93417ec548fabaa628b5f92bb50a74d87f461c2a1d43bef/django-jinja-2.2.2.tar.gz
+
+... Collecting django-kombu==0.9.4 (from -r /home/gnom/proplast/req.txt (line 35))
+
+...   Using cached https://files.pythonhosted.org/packages/db/f0/1df762ff6d9bcbcabc8a13980b8a7765233b1113b727d8d1e7266d8f00d6/django-kombu-0.9.4.tar.gz
+
+... Collecting django-mptt==0.8.7 (from -r /home/gnom/proplast/req.txt (line 36))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/8d/2d7fb86ea36a7cc144ba0516c78dde429746e7df5ced903cbb5aaa8fb20e/django_mptt-0.8.7-py2.py3-none-any.whl
+
+... Collecting django-mptt-admin==0.3.0 (from -r /home/gnom/proplast/req.txt (line 37))
+
+...   Using cached https://files.pythonhosted.org/packages/f1/65/e68d71e03a04034d70013ec664af84216848ab7b0f0427b76d7086097986/django_mptt_admin-0.3.0-py2.py3-none-any.whl
+
+... Collecting django-pipeline==1.5.4 (from -r /home/gnom/proplast/req.txt (line 38))
+
+...   Using cached https://files.pythonhosted.org/packages/ef/58/4e5a373bb2915c1736c1223d1f8cb39741377337bd8f1cf8d3e93aaf6a7e/django_pipeline-1.5.4-py2.py3-none-any.whl
+
+... Collecting django-redis==4.4.1 (from -r /home/gnom/proplast/req.txt (line 39))
+
+...   Using cached https://files.pythonhosted.org/packages/36/da/acfaa2ecf99e07fb00153ad959e41c958e9780c3b7a935591b5d4d0a0ba8/django-redis-4.4.1.tar.gz
+
+... Collecting django-reversion==2.0.6 (from -r /home/gnom/proplast/req.txt (line 40))
+
+...   Using cached https://files.pythonhosted.org/packages/54/9f/5a1c95a6b601270dd2de0d5fbbfb4017cde20bcac200228f5ff1e4937cdd/django-reversion-2.0.6.tar.gz
+
+... Collecting django-reversion-compare==0.7.2 (from -r /home/gnom/proplast/req.txt (line 41))
+
+...   Using cached https://files.pythonhosted.org/packages/7a/e2/002468a620c74679c8cc03c6255d50047545c36cf19138522601aa80fa86/django_reversion_compare-0.7.2-py2.py3-none-any.whl
+
+... Collecting Django-Select2==5.8.4 (from -r /home/gnom/proplast/req.txt (line 42))
+
+...   Using cached https://files.pythonhosted.org/packages/ce/79/447bbc787de2fccec4fb922dc504292c2532728f0dc60728f1a182bf2745/Django-Select2-5.8.4.tar.gz
+
+... Collecting django-smart-selects==1.3.4 (from -r /home/gnom/proplast/req.txt (line 43))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/76/e21f0318ec15500e7122862e09ed97b2a4fbcb5e2b41d512ee54084d0ed5/django-smart-selects-1.3.4.tar.gz
+
+... Collecting django-taggit==0.22.0 (from -r /home/gnom/proplast/req.txt (line 44))
+
+...   Using cached https://files.pythonhosted.org/packages/64/4d/006cf0f139d27bc19fb4afeb0c3af25ecb4d91a14339cf045137521a3f4d/django_taggit-0.22.0-py2.py3-none-any.whl
+
+... Collecting django-taggit-helpers==0.1.4 (from -r /home/gnom/proplast/req.txt (line 45))
+
+...   Using cached https://files.pythonhosted.org/packages/89/75/c9814bd50dca05cb7b4ef0abc47d2a4d3993a2863e45b112d09b509708bf/django_taggit_helpers-0.1.4-py2.py3-none-any.whl
+
+... Collecting django-tastypie==0.12.2 (from -r /home/gnom/proplast/req.txt (line 46))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/b8/7410ae424b85d7a8d1a61df6f928561f64b0b309726865db0408530757bd/django_tastypie-0.12.2-py2.py3-none-any.whl
+
+... Collecting django-transaction-hooks==0.2 (from -r /home/gnom/proplast/req.txt (line 47))
+
+...   Using cached https://files.pythonhosted.org/packages/60/f0/04ea2d937a44d94043a0ce8d4dec3328b36faa5d4b3c893478165c0aa259/django-transaction-hooks-0.2.tar.gz
+
+... Collecting django-wysiwyg-redactor==0.4.9 (from -r /home/gnom/proplast/req.txt (line 48))
+
+...   Using cached https://files.pythonhosted.org/packages/71/23/9b28609666dc46ffc005f157656b3ed843ba14f97f6e0c310084bdcec814/django-wysiwyg-redactor-0.4.9.tar.gz
+
+... Collecting docopt==0.6.2 (from -r /home/gnom/proplast/req.txt (line 49))
+
+...   Using cached https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
+
+... Collecting docutils==0.12 (from -r /home/gnom/proplast/req.txt (line 50))
+
+...   Using cached https://files.pythonhosted.org/packages/37/38/ceda70135b9144d84884ae2fc5886c6baac4edea39550f28bcd144c1234d/docutils-0.12.tar.gz
+
+... Collecting ecdsa==0.13 (from -r /home/gnom/proplast/req.txt (line 51))
+
+...   Using cached https://files.pythonhosted.org/packages/63/f4/73669d51825516ce8c43b816c0a6b64cd6eb71d08b99820c00792cb42222/ecdsa-0.13-py2.py3-none-any.whl
+
+... Collecting elasticsearch==2.1.0 (from -r /home/gnom/proplast/req.txt (line 52))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/c3/d3677c8a6e5ee3c2b8ce83ffa14b9fed23f2965fcd07e5b962afb3b7c1b0/elasticsearch-2.1.0-py2.py3-none-any.whl
+
+... Collecting elasticsearch-dsl==0.0.9 (from -r /home/gnom/proplast/req.txt (line 53))
+
+...   Using cached https://files.pythonhosted.org/packages/2a/b7/890e200f2cd1e22d1c987060c0a1af088731da5851766d2ca2f120ec8778/elasticsearch_dsl-0.0.9-py2.py3-none-any.whl
+
+... Requirement already satisfied: enum34==1.1.6 in /usr/lib/python2.7/dist-packages (from -r /home/gnom/proplast/req.txt (line 54)) (1.1.6)
+
+... Collecting et-xmlfile==1.0.1 (from -r /home/gnom/proplast/req.txt (line 55))
+
+...   Using cached https://files.pythonhosted.org/packages/22/28/a99c42aea746e18382ad9fb36f64c1c1f04216f41797f2f0fa567da11388/et_xmlfile-1.0.1.tar.gz
+
+... Collecting Fabric==1.10.2 (from -r /home/gnom/proplast/req.txt (line 56))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/dc942156d7f8dc4792fea8fbec51518c907a043d420b34d2cc0a9306706d/Fabric-1.10.2-py2-none-any.whl
+
+... Collecting fabtools==0.19.0 (from -r /home/gnom/proplast/req.txt (line 57))
+
+...   Using cached https://files.pythonhosted.org/packages/99/52/fb84dbef810886cda8ebd5af506c8f935e857a69ef2f67bb6c5ac2c4882d/fabtools-0.19.0.tar.gz
+
+... Collecting flower==0.9.1 (from -r /home/gnom/proplast/req.txt (line 58))
+
+...   Using cached https://files.pythonhosted.org/packages/b4/94/39eff3d8727c03865e6693911a1d84295959238d932603d4dbf2069fe5c9/flower-0.9.1.tar.gz
+
+... Collecting freezegun==0.3.7 (from -r /home/gnom/proplast/req.txt (line 59))
+
+...   Using cached https://files.pythonhosted.org/packages/68/7c/a6ac7d565482c74ddafe5c14b133ee3e65e1ac88e980eb357d83bd6d3e8b/freezegun-0.3.7.tar.gz
+
+... Collecting funcsigs==1.0.2 (from -r /home/gnom/proplast/req.txt (line 60))
+
+...   Using cached https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+
+... Collecting funcy==1.6 (from -r /home/gnom/proplast/req.txt (line 61))
+
+...   Using cached https://files.pythonhosted.org/packages/b8/81/37cab2771600d8b4f473bf5d6dad6e13dd3c3d16bbaedc0158d46d105b5e/funcy-1.6.tar.gz
+
+... Collecting futures==3.0.3 (from -r /home/gnom/proplast/req.txt (line 62))
+
+...   Using cached https://files.pythonhosted.org/packages/26/7d/a7e1130b63514cd7192f0ba0b53bdda7f96df88641ee0c97bfed8477f324/futures-3.0.3-py2-none-any.whl
+
+... Collecting google-api-python-client==1.6.1 (from -r /home/gnom/proplast/req.txt (line 63))
+
+...   Using cached https://files.pythonhosted.org/packages/39/5e/43480d270c68453dc1c440868053fb90c82ddf5fe4f804e71656d6238240/google_api_python_client-1.6.1-py2.py3-none-any.whl
+
+... Collecting googlemaps==2.4.5 (from -r /home/gnom/proplast/req.txt (line 64))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/90/8c6661c66ebf8dcc86bf79bf0c24088af4bbd3692b479406ae57617a2a78/googlemaps-2.4.5-py2-none-any.whl
+
+... Collecting gunicorn==19.3.0 (from -r /home/gnom/proplast/req.txt (line 65))
+
+...   Using cached https://files.pythonhosted.org/packages/80/1b/25eaf834e05c82233568cdada4a3ea373fd2bc27c447554a98e18def5494/gunicorn-19.3.0-py2.py3-none-any.whl
+
+... Collecting html5lib==0.9999999 (from -r /home/gnom/proplast/req.txt (line 66))
+
+...   Using cached https://files.pythonhosted.org/packages/ae/ae/bcb60402c60932b32dfaf19bb53870b29eda2cd17551ba5639219fb5ebf9/html5lib-0.9999999.tar.gz
+
+... Collecting http==0.2 (from -r /home/gnom/proplast/req.txt (line 67))
+
+...   Using cached https://files.pythonhosted.org/packages/e3/91/a9260805e532e33df273b8f7dffad5c51693f8f9ba5f86bedcf42a7f22eb/http-0.02.tar.gz
+
+... Collecting httplib2==0.10.3 (from -r /home/gnom/proplast/req.txt (line 68))
+
+...   Using cached https://files.pythonhosted.org/packages/e4/2e/a7e27d2c36076efeb8c0e519758968b20389adf57a9ce3af139891af2696/httplib2-0.10.3.tar.gz
+
+... Collecting idna==2.5 (from -r /home/gnom/proplast/req.txt (line 69))
+
+...   Using cached https://files.pythonhosted.org/packages/11/7d/9bbbd7bb35f34b0169542487d2a8859e44306bb2e6a4455d491800a5621f/idna-2.5-py2.py3-none-any.whl
+
+... Collecting ipaddress==1.0.18 (from -r /home/gnom/proplast/req.txt (line 70))
+
+...   Using cached https://files.pythonhosted.org/packages/17/93/28f4dd560780dd70fe75ce7e2662869770dfac181f6bbb472179ea8da516/ipaddress-1.0.18-py2-none-any.whl
+
+... Collecting ipdb==0.9.1 (from -r /home/gnom/proplast/req.txt (line 71))
+
+...   Using cached https://files.pythonhosted.org/packages/60/45/0de3450e207cdb72882c1765a1b8940a6ade931c79eb5e9fc27aae3b7de8/ipdb-0.9.1.tar.gz
+
+... Collecting ipython==4.1.2 (from -r /home/gnom/proplast/req.txt (line 72))
+
+...   Using cached https://files.pythonhosted.org/packages/80/eb/27a89210781827a904d4d0182044b3fbd2dd4c4537766a375a289f3eea83/ipython-4.1.2-py2-none-any.whl
+
+... Collecting ipython-genutils==0.1.0 (from -r /home/gnom/proplast/req.txt (line 73))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/b3/4ce580020d6be73770d55515a65aec9ed5f3ea95f09e00300e53fc264218/ipython_genutils-0.1.0-py2.py3-none-any.whl
+
+... Collecting jdcal==1.3 (from -r /home/gnom/proplast/req.txt (line 74))
+
+...   Using cached https://files.pythonhosted.org/packages/9b/fa/40beb2aa43a13f740dd5be367a10a03270043787833409c61b79e69f1dfd/jdcal-1.3.tar.gz
+
+... Collecting Jinja2==2.9.5 (from -r /home/gnom/proplast/req.txt (line 75))
+
+...   Using cached https://files.pythonhosted.org/packages/3c/d1/49d69bc23d0e0c7612248dd8f5391bd043648865132309616c280ca1c837/Jinja2-2.9.5-py2.py3-none-any.whl
+
+... Collecting kombu==3.0.33 (from -r /home/gnom/proplast/req.txt (line 76))
+
+...   Using cached https://files.pythonhosted.org/packages/ad/ca/13d0265de94dbe4f685a2a5cd8c0123a4c90710352e94ccadc2e13098fc9/kombu-3.0.33-py2.py3-none-any.whl
+
+... Collecting lxml==3.6.1 (from -r /home/gnom/proplast/req.txt (line 77))
+
+...   Using cached https://files.pythonhosted.org/packages/09/f3/c41293bc181b8c727cc485339dc57af653dae6d17d4c8dbf0cbac53cb4aa/lxml-3.6.1.tar.gz
+
+... Collecting MarkupSafe==0.23 (from -r /home/gnom/proplast/req.txt (line 78))
+
+...   Using cached https://files.pythonhosted.org/packages/c0/41/bae1254e0396c0cc8cf1751cb7d9afc90a602353695af5952530482c963f/MarkupSafe-0.23.tar.gz
+
+... Collecting meld3==1.0.2 (from -r /home/gnom/proplast/req.txt (line 79))
+
+...   Using cached https://files.pythonhosted.org/packages/b6/ae/e6d731e4b9661642c1b20591d8054855bb5b8281cbfa18f561c2edd783f7/meld3-1.0.2-py2.py3-none-any.whl
+
+... Collecting mock==2.0.0 (from -r /home/gnom/proplast/req.txt (line 80))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/35/f187bdf23be87092bd0f1200d43d23076cee4d0dec109f195173fd3ebc79/mock-2.0.0-py2.py3-none-any.whl
+
+... Collecting model-mommy==1.2.6 (from -r /home/gnom/proplast/req.txt (line 81))
+
+...   Using cached https://files.pythonhosted.org/packages/77/c4/0eb60c907bef3489a11c655c1741c93a1d6f6f9ec1643b3a8a6634a3bd5d/model_mommy-1.2.6.tar.gz
+
+... Collecting mysqlclient==1.3.7 (from -r /home/gnom/proplast/req.txt (line 82))
+
+...   Using cached https://files.pythonhosted.org/packages/74/ff/4e964e20b559e55d7afa60fbccc6a560f2adf289813bd3d7eb4eb8a87093/mysqlclient-1.3.7.tar.gz
+
+...     Complete output from command python setup.py egg_info:
+
+...     sh: 1: mysql_config: not found
+
+...     Traceback (most recent call last):
+
+...       File "<string>", line 1, in <module>
+
+...       File "/tmp/pip-install-3DXhXQ/mysqlclient/setup.py", line 17, in <module>
+
+...         metadata, options = get_config()
+
+...       File "setup_posix.py", line 44, in get_config
+
+...         libs = mysql_config("libs_r")
+
+...       File "setup_posix.py", line 26, in mysql_config
+
+...         raise EnvironmentError("%s not found" % (mysql_config.path,))
+
+...     EnvironmentError: mysql_config not found
+
+...     
+
+...     ----------------------------------------
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Hit:1 http://security.debian.org/debian-security buster/updates InRelease
+
+... Hit:2 http://cdn-fastly.deb.debian.org/debian buster InRelease
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... 93 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... git is already the newest version (1:2.20.1-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python3-venv is already the newest version (3.7.2-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python-pip is already the newest version (18.1-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... python2 is already the newest version (2.7.15-4).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages (16.4.3)
+
+... New python executable in /home/gnom/.env2/bin/python2
+
+... Also creating executable in /home/gnom/.env2/bin/python
+
+... Installing setuptools, pip, wheel...
+
+... done.
+
+... Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages (16.4.3)
+
+... Collecting alabaster==0.7.7 (from -r /home/gnom/proplast/req.txt (line 1))
+
+...   Using cached https://files.pythonhosted.org/packages/25/e6/86e30d0d818955e92ee37c64f92a7a3b2cb4bbdd07a7e74a6a7c028c1f3a/alabaster-0.7.7-py2.py3-none-any.whl
+
+... Collecting amqp==1.4.9 (from -r /home/gnom/proplast/req.txt (line 2))
+
+...   Using cached https://files.pythonhosted.org/packages/ed/09/314d2788aba0aa91f2578071a6484f87a615172a98c309c2aad3433da90b/amqp-1.4.9-py2.py3-none-any.whl
+
+... Collecting ansible==2.3.0.0 (from -r /home/gnom/proplast/req.txt (line 3))
+
+...   Using cached https://files.pythonhosted.org/packages/65/6e/3df94b6bf0e2d8b7d1e9e4e384e312c49c59fce45ccfce3d01dd98084395/ansible-2.3.0.0.tar.gz
+
+... Collecting anyjson==0.3.3 (from -r /home/gnom/proplast/req.txt (line 4))
+
+...   Using cached https://files.pythonhosted.org/packages/c3/4d/d4089e1a3dd25b46bebdb55a992b0797cff657b4477bc32ce28038fdecbc/anyjson-0.3.3.tar.gz
+
+... Collecting appdirs==1.4.3 (from -r /home/gnom/proplast/req.txt (line 5))
+
+...   Using cached https://files.pythonhosted.org/packages/56/eb/810e700ed1349edde4cbdc1b2a21e28cdf115f9faf263f6bbf8447c1abf3/appdirs-1.4.3-py2.py3-none-any.whl
+
+... Collecting asn1crypto==0.22.0 (from -r /home/gnom/proplast/req.txt (line 6))
+
+...   Using cached https://files.pythonhosted.org/packages/97/ba/7e8117d8efcee589f4d96dd2b2eb1d997f96d27d214cf2b7134ad8acf6ab/asn1crypto-0.22.0-py2.py3-none-any.whl
+
+... Collecting Babel==2.2.0 (from -r /home/gnom/proplast/req.txt (line 7))
+
+...   Using cached https://files.pythonhosted.org/packages/33/0e/7428041cddc3ff6e9a0f11cd2464b8bf6caed1b3879fcb9cf064f1ac7675/Babel-2.2.0-py2.py3-none-any.whl
+
+... Collecting backports.ssl-match-hostname==3.5.0.1 (from -r /home/gnom/proplast/req.txt (line 8))
+
+...   Using cached https://files.pythonhosted.org/packages/76/21/2dc61178a2038a5cb35d14b61467c6ac632791ed05131dda72c20e7b9e23/backports.ssl_match_hostname-3.5.0.1.tar.gz
+
+... Collecting billiard==3.3.0.21 (from -r /home/gnom/proplast/req.txt (line 9))
+
+...   Using cached https://files.pythonhosted.org/packages/65/8d/e992b90735a6fc2a9f360e3cfbece33dec1b1914e12c590c36f1b5aced57/billiard-3.3.0.21.tar.gz
+
+... Collecting bleach==1.4.2 (from -r /home/gnom/proplast/req.txt (line 10))
+
+...   Using cached https://files.pythonhosted.org/packages/98/40/b2fc4d7a22ca89e58c6bcda0bccfff5b61bfcc19a11f9d037df004316088/bleach-1.4.2-py2.py3-none-any.whl
+
+... Collecting bootstrap-admin==0.3.6 (from -r /home/gnom/proplast/req.txt (line 11))
+
+...   Using cached https://files.pythonhosted.org/packages/10/92/b6cfc89575572d8f87c18357a90088fb5aa99a047b18198b0a5a211cf4f7/bootstrap_admin-0.3.6.tar.gz
+
+... Collecting celery==3.1.19 (from -r /home/gnom/proplast/req.txt (line 12))
+
+...   Using cached https://files.pythonhosted.org/packages/55/e1/65d2b3ded641a5388055bdd8845a9a8e5b60e0bfd8280fc2bd85f931dc3a/celery-3.1.19-py2.py3-none-any.whl
+
+... Collecting celery-haystack==0.10 (from -r /home/gnom/proplast/req.txt (line 13))
+
+...   Using cached https://files.pythonhosted.org/packages/5c/62/0565be8831b3bf34e71b67711ff998d9ec9916d7be0df59789cdb6edc17e/celery_haystack-0.10-py2.py3-none-any.whl
+
+... Collecting celery-with-redis==3.0 (from -r /home/gnom/proplast/req.txt (line 14))
+
+...   Using cached https://files.pythonhosted.org/packages/d8/f4/40cfec02451a8a9c911ac67080e39a5ae8ab9100ff79b0c0531898d4bff7/celery-with-redis-3.0.tar.gz
+
+... Collecting certifi==2017.4.17 (from -r /home/gnom/proplast/req.txt (line 15))
+
+...   Using cached https://files.pythonhosted.org/packages/eb/01/c1f58987b777d6c4ec535b4e004a4a07bfc9db06f0c7533367ca6da8f2a6/certifi-2017.4.17-py2.py3-none-any.whl
+
+... Collecting cffi==1.10.0 (from -r /home/gnom/proplast/req.txt (line 16))
+
+...   Using cached https://files.pythonhosted.org/packages/50/85/d74d06ac09fc2deb3d9bd6d6aca4ca13d82b8118c04494cd0e84fcd81624/cffi-1.10.0-cp27-cp27mu-manylinux1_x86_64.whl
+
+... Collecting click==6.7 (from -r /home/gnom/proplast/req.txt (line 17))
+
+...   Using cached https://files.pythonhosted.org/packages/34/c1/8806f99713ddb993c5366c362b2f908f18269f8d792aff1abfd700775a77/click-6.7-py2.py3-none-any.whl
+
+... Collecting cssselect==0.9.2 (from -r /home/gnom/proplast/req.txt (line 18))
+
+...   Using cached https://files.pythonhosted.org/packages/61/8d/298396b86d65ef62e5913dc5153fbc51576a56656994dd9d31df84967190/cssselect-0.9.2-py2.py3-none-any.whl
+
+... Collecting DAWG-Python==0.7.2 (from -r /home/gnom/proplast/req.txt (line 19))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/84/ff1ce2071d4c650ec85745766c0047ccc3b5036f1d03559fd46bb38b5eeb/DAWG_Python-0.7.2-py2.py3-none-any.whl
+
+... Collecting decorator==4.0.9 (from -r /home/gnom/proplast/req.txt (line 20))
+
+...   Using cached https://files.pythonhosted.org/packages/7d/ca/493b2377bf42d57bdd985c31975be3d2b500ad9079199cecb7633e8e2cde/decorator-4.0.9-py2.py3-none-any.whl
+
+... Collecting Django==1.8.15 (from -r /home/gnom/proplast/req.txt (line 21))
+
+...   Using cached https://files.pythonhosted.org/packages/f3/bb/865626b78c2e87acd4dc1bd8f8cb0a49582ec65e40968f3d24f594bba600/Django-1.8.15-py2.py3-none-any.whl
+
+... Collecting django-appconf==1.0.1 (from -r /home/gnom/proplast/req.txt (line 22))
+
+...   Using cached https://files.pythonhosted.org/packages/89/06/f12bac3e71c1dbea27bfa1ffb1720acd2b0bb11eb344f5b77d9a7d64e574/django_appconf-1.0.1-py2.py3-none-any.whl
+
+... Collecting django-autofixture==0.11.0 (from -r /home/gnom/proplast/req.txt (line 23))
+
+...   Using cached https://files.pythonhosted.org/packages/3a/67/2bb4ae31fc0ea16eda7e5ad1016c089404a3e387c6f1589fe0e66d19dab2/django-autofixture-0.11.0.tar.gz
+
+... Collecting django-bleach==0.3.0 (from -r /home/gnom/proplast/req.txt (line 24))
+
+...   Using cached https://files.pythonhosted.org/packages/5a/12/3a6ec6d8aae68562a9c662f0e2fd15da3d85f681cc759852b2ac40e9db43/django-bleach-0.3.0.tar.gz
+
+... Collecting django-cacheops==2.4.3 (from -r /home/gnom/proplast/req.txt (line 25))
+
+...   Using cached https://files.pythonhosted.org/packages/5e/9c/442b8496079c563b1ec000020bd56131d6ff0e093deb3ce0e127828595ed/django-cacheops-2.4.3.tar.gz
+
+... Collecting django-celery==3.1.17 (from -r /home/gnom/proplast/req.txt (line 26))
+
+...   Using cached https://files.pythonhosted.org/packages/56/cc/6b9731091887dcb1c76ef48521e580bb2b0f469e6f4934072aac75a478f3/django-celery-3.1.17.tar.gz
+
+... Collecting django-ckeditor==5.2.2 (from -r /home/gnom/proplast/req.txt (line 27))
+
+...   Using cached https://files.pythonhosted.org/packages/b1/f8/c427cbb8b71b601162a2f812e43c4e0b71b4653e5ca70137f1bc368712ff/django-ckeditor-5.2.2.tar.gz
+
+... Collecting django-crispy-forms==1.6.0 (from -r /home/gnom/proplast/req.txt (line 28))
+
+...   Using cached https://files.pythonhosted.org/packages/f2/e7/62c67158cb4617c9b56ea069b179abb1a8436fe98c485725e44a2c694f28/django_crispy_forms-1.6.0-py2-none-any.whl
+
+... Collecting django-debug-toolbar==1.4 (from -r /home/gnom/proplast/req.txt (line 29))
+
+...   Using cached https://files.pythonhosted.org/packages/f6/b2/f7849bedd8bf29bed59d5dc60a979b0f18f73d4fc36e4d5deff9f8d0dbd8/django_debug_toolbar-1.4-py2.py3-none-any.whl
+
+... Collecting django-elasticsearch-debug-toolbar==1.0.3 (from -r /home/gnom/proplast/req.txt (line 30))
+
+...   Using cached https://files.pythonhosted.org/packages/5f/16/9f6986a42a933c317ce5f6cd2de5da6a07e4668e7b6c2bb95ed09151ff3f/django-elasticsearch-debug-toolbar-1.0.3.tar.gz
+
+... Collecting django-embed-video==1.1.2 (from -r /home/gnom/proplast/req.txt (line 31))
+
+...   Using cached https://files.pythonhosted.org/packages/1d/c0/9e7e8033256aac4feab495ba334cee6bbf14ef41cdad734d9f687d7128eb/django-embed-video-1.1.2.tar.gz
+
+... Collecting django-extensions==1.6.1 (from -r /home/gnom/proplast/req.txt (line 32))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/a16d75b21a242f143d6e8be5432579da60bc90ed2ddc3fd9c6febe9c722c/django_extensions-1.6.1-py2.py3-none-any.whl
+
+... Collecting django-geoip==0.5.2 (from -r /home/gnom/proplast/req.txt (line 33))
+
+...   Using cached https://files.pythonhosted.org/packages/68/4b/94cfb102e45daff5853c713bc89c7cc097e797560a1b1d51c4d7d2364989/django-geoip-0.5.2.tar.gz
+
+... Collecting django-jinja==2.2.2 (from -r /home/gnom/proplast/req.txt (line 34))
+
+...   Using cached https://files.pythonhosted.org/packages/a0/ed/651dff14c9a9a93417ec548fabaa628b5f92bb50a74d87f461c2a1d43bef/django-jinja-2.2.2.tar.gz
+
+... Collecting django-kombu==0.9.4 (from -r /home/gnom/proplast/req.txt (line 35))
+
+...   Using cached https://files.pythonhosted.org/packages/db/f0/1df762ff6d9bcbcabc8a13980b8a7765233b1113b727d8d1e7266d8f00d6/django-kombu-0.9.4.tar.gz
+
+... Collecting django-mptt==0.8.7 (from -r /home/gnom/proplast/req.txt (line 36))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/8d/2d7fb86ea36a7cc144ba0516c78dde429746e7df5ced903cbb5aaa8fb20e/django_mptt-0.8.7-py2.py3-none-any.whl
+
+... Collecting django-mptt-admin==0.3.0 (from -r /home/gnom/proplast/req.txt (line 37))
+
+...   Using cached https://files.pythonhosted.org/packages/f1/65/e68d71e03a04034d70013ec664af84216848ab7b0f0427b76d7086097986/django_mptt_admin-0.3.0-py2.py3-none-any.whl
+
+... Collecting django-pipeline==1.5.4 (from -r /home/gnom/proplast/req.txt (line 38))
+
+...   Using cached https://files.pythonhosted.org/packages/ef/58/4e5a373bb2915c1736c1223d1f8cb39741377337bd8f1cf8d3e93aaf6a7e/django_pipeline-1.5.4-py2.py3-none-any.whl
+
+... Collecting django-redis==4.4.1 (from -r /home/gnom/proplast/req.txt (line 39))
+
+...   Using cached https://files.pythonhosted.org/packages/36/da/acfaa2ecf99e07fb00153ad959e41c958e9780c3b7a935591b5d4d0a0ba8/django-redis-4.4.1.tar.gz
+
+... Collecting django-reversion==2.0.6 (from -r /home/gnom/proplast/req.txt (line 40))
+
+...   Using cached https://files.pythonhosted.org/packages/54/9f/5a1c95a6b601270dd2de0d5fbbfb4017cde20bcac200228f5ff1e4937cdd/django-reversion-2.0.6.tar.gz
+
+... Collecting django-reversion-compare==0.7.2 (from -r /home/gnom/proplast/req.txt (line 41))
+
+...   Using cached https://files.pythonhosted.org/packages/7a/e2/002468a620c74679c8cc03c6255d50047545c36cf19138522601aa80fa86/django_reversion_compare-0.7.2-py2.py3-none-any.whl
+
+... Collecting Django-Select2==5.8.4 (from -r /home/gnom/proplast/req.txt (line 42))
+
+...   Using cached https://files.pythonhosted.org/packages/ce/79/447bbc787de2fccec4fb922dc504292c2532728f0dc60728f1a182bf2745/Django-Select2-5.8.4.tar.gz
+
+... Collecting django-smart-selects==1.3.4 (from -r /home/gnom/proplast/req.txt (line 43))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/76/e21f0318ec15500e7122862e09ed97b2a4fbcb5e2b41d512ee54084d0ed5/django-smart-selects-1.3.4.tar.gz
+
+... Collecting django-taggit==0.22.0 (from -r /home/gnom/proplast/req.txt (line 44))
+
+...   Using cached https://files.pythonhosted.org/packages/64/4d/006cf0f139d27bc19fb4afeb0c3af25ecb4d91a14339cf045137521a3f4d/django_taggit-0.22.0-py2.py3-none-any.whl
+
+... Collecting django-taggit-helpers==0.1.4 (from -r /home/gnom/proplast/req.txt (line 45))
+
+...   Using cached https://files.pythonhosted.org/packages/89/75/c9814bd50dca05cb7b4ef0abc47d2a4d3993a2863e45b112d09b509708bf/django_taggit_helpers-0.1.4-py2.py3-none-any.whl
+
+... Collecting django-tastypie==0.12.2 (from -r /home/gnom/proplast/req.txt (line 46))
+
+...   Using cached https://files.pythonhosted.org/packages/7e/b8/7410ae424b85d7a8d1a61df6f928561f64b0b309726865db0408530757bd/django_tastypie-0.12.2-py2.py3-none-any.whl
+
+... Collecting django-transaction-hooks==0.2 (from -r /home/gnom/proplast/req.txt (line 47))
+
+...   Using cached https://files.pythonhosted.org/packages/60/f0/04ea2d937a44d94043a0ce8d4dec3328b36faa5d4b3c893478165c0aa259/django-transaction-hooks-0.2.tar.gz
+
+... Collecting django-wysiwyg-redactor==0.4.9 (from -r /home/gnom/proplast/req.txt (line 48))
+
+...   Using cached https://files.pythonhosted.org/packages/71/23/9b28609666dc46ffc005f157656b3ed843ba14f97f6e0c310084bdcec814/django-wysiwyg-redactor-0.4.9.tar.gz
+
+... Collecting docopt==0.6.2 (from -r /home/gnom/proplast/req.txt (line 49))
+
+...   Using cached https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
+
+... Collecting docutils==0.12 (from -r /home/gnom/proplast/req.txt (line 50))
+
+...   Using cached https://files.pythonhosted.org/packages/37/38/ceda70135b9144d84884ae2fc5886c6baac4edea39550f28bcd144c1234d/docutils-0.12.tar.gz
+
+... Collecting ecdsa==0.13 (from -r /home/gnom/proplast/req.txt (line 51))
+
+...   Using cached https://files.pythonhosted.org/packages/63/f4/73669d51825516ce8c43b816c0a6b64cd6eb71d08b99820c00792cb42222/ecdsa-0.13-py2.py3-none-any.whl
+
+... Collecting elasticsearch==2.1.0 (from -r /home/gnom/proplast/req.txt (line 52))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/c3/d3677c8a6e5ee3c2b8ce83ffa14b9fed23f2965fcd07e5b962afb3b7c1b0/elasticsearch-2.1.0-py2.py3-none-any.whl
+
+... Collecting elasticsearch-dsl==0.0.9 (from -r /home/gnom/proplast/req.txt (line 53))
+
+...   Using cached https://files.pythonhosted.org/packages/2a/b7/890e200f2cd1e22d1c987060c0a1af088731da5851766d2ca2f120ec8778/elasticsearch_dsl-0.0.9-py2.py3-none-any.whl
+
+... Requirement already satisfied: enum34==1.1.6 in /usr/lib/python2.7/dist-packages (from -r /home/gnom/proplast/req.txt (line 54)) (1.1.6)
+
+... Collecting et-xmlfile==1.0.1 (from -r /home/gnom/proplast/req.txt (line 55))
+
+...   Using cached https://files.pythonhosted.org/packages/22/28/a99c42aea746e18382ad9fb36f64c1c1f04216f41797f2f0fa567da11388/et_xmlfile-1.0.1.tar.gz
+
+... Collecting Fabric==1.10.2 (from -r /home/gnom/proplast/req.txt (line 56))
+
+...   Using cached https://files.pythonhosted.org/packages/ee/62/dc942156d7f8dc4792fea8fbec51518c907a043d420b34d2cc0a9306706d/Fabric-1.10.2-py2-none-any.whl
+
+... Collecting fabtools==0.19.0 (from -r /home/gnom/proplast/req.txt (line 57))
+
+...   Using cached https://files.pythonhosted.org/packages/99/52/fb84dbef810886cda8ebd5af506c8f935e857a69ef2f67bb6c5ac2c4882d/fabtools-0.19.0.tar.gz
+
+... Collecting flower==0.9.1 (from -r /home/gnom/proplast/req.txt (line 58))
+
+...   Using cached https://files.pythonhosted.org/packages/b4/94/39eff3d8727c03865e6693911a1d84295959238d932603d4dbf2069fe5c9/flower-0.9.1.tar.gz
+
+... Collecting freezegun==0.3.7 (from -r /home/gnom/proplast/req.txt (line 59))
+
+...   Using cached https://files.pythonhosted.org/packages/68/7c/a6ac7d565482c74ddafe5c14b133ee3e65e1ac88e980eb357d83bd6d3e8b/freezegun-0.3.7.tar.gz
+
+... Collecting funcsigs==1.0.2 (from -r /home/gnom/proplast/req.txt (line 60))
+
+...   Using cached https://files.pythonhosted.org/packages/69/cb/f5be453359271714c01b9bd06126eaf2e368f1fddfff30818754b5ac2328/funcsigs-1.0.2-py2.py3-none-any.whl
+
+... Collecting funcy==1.6 (from -r /home/gnom/proplast/req.txt (line 61))
+
+...   Using cached https://files.pythonhosted.org/packages/b8/81/37cab2771600d8b4f473bf5d6dad6e13dd3c3d16bbaedc0158d46d105b5e/funcy-1.6.tar.gz
+
+... Collecting futures==3.0.3 (from -r /home/gnom/proplast/req.txt (line 62))
+
+...   Using cached https://files.pythonhosted.org/packages/26/7d/a7e1130b63514cd7192f0ba0b53bdda7f96df88641ee0c97bfed8477f324/futures-3.0.3-py2-none-any.whl
+
+... Collecting google-api-python-client==1.6.1 (from -r /home/gnom/proplast/req.txt (line 63))
+
+...   Using cached https://files.pythonhosted.org/packages/39/5e/43480d270c68453dc1c440868053fb90c82ddf5fe4f804e71656d6238240/google_api_python_client-1.6.1-py2.py3-none-any.whl
+
+... Collecting googlemaps==2.4.5 (from -r /home/gnom/proplast/req.txt (line 64))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/90/8c6661c66ebf8dcc86bf79bf0c24088af4bbd3692b479406ae57617a2a78/googlemaps-2.4.5-py2-none-any.whl
+
+... Collecting gunicorn==19.3.0 (from -r /home/gnom/proplast/req.txt (line 65))
+
+...   Using cached https://files.pythonhosted.org/packages/80/1b/25eaf834e05c82233568cdada4a3ea373fd2bc27c447554a98e18def5494/gunicorn-19.3.0-py2.py3-none-any.whl
+
+... Collecting html5lib==0.9999999 (from -r /home/gnom/proplast/req.txt (line 66))
+
+...   Using cached https://files.pythonhosted.org/packages/ae/ae/bcb60402c60932b32dfaf19bb53870b29eda2cd17551ba5639219fb5ebf9/html5lib-0.9999999.tar.gz
+
+... Collecting http==0.2 (from -r /home/gnom/proplast/req.txt (line 67))
+
+...   Using cached https://files.pythonhosted.org/packages/e3/91/a9260805e532e33df273b8f7dffad5c51693f8f9ba5f86bedcf42a7f22eb/http-0.02.tar.gz
+
+... Collecting httplib2==0.10.3 (from -r /home/gnom/proplast/req.txt (line 68))
+
+...   Using cached https://files.pythonhosted.org/packages/e4/2e/a7e27d2c36076efeb8c0e519758968b20389adf57a9ce3af139891af2696/httplib2-0.10.3.tar.gz
+
+... Collecting idna==2.5 (from -r /home/gnom/proplast/req.txt (line 69))
+
+...   Using cached https://files.pythonhosted.org/packages/11/7d/9bbbd7bb35f34b0169542487d2a8859e44306bb2e6a4455d491800a5621f/idna-2.5-py2.py3-none-any.whl
+
+... Collecting ipaddress==1.0.18 (from -r /home/gnom/proplast/req.txt (line 70))
+
+...   Using cached https://files.pythonhosted.org/packages/17/93/28f4dd560780dd70fe75ce7e2662869770dfac181f6bbb472179ea8da516/ipaddress-1.0.18-py2-none-any.whl
+
+... Collecting ipdb==0.9.1 (from -r /home/gnom/proplast/req.txt (line 71))
+
+...   Using cached https://files.pythonhosted.org/packages/60/45/0de3450e207cdb72882c1765a1b8940a6ade931c79eb5e9fc27aae3b7de8/ipdb-0.9.1.tar.gz
+
+... Collecting ipython==4.1.2 (from -r /home/gnom/proplast/req.txt (line 72))
+
+...   Using cached https://files.pythonhosted.org/packages/80/eb/27a89210781827a904d4d0182044b3fbd2dd4c4537766a375a289f3eea83/ipython-4.1.2-py2-none-any.whl
+
+... Collecting ipython-genutils==0.1.0 (from -r /home/gnom/proplast/req.txt (line 73))
+
+...   Using cached https://files.pythonhosted.org/packages/6a/b3/4ce580020d6be73770d55515a65aec9ed5f3ea95f09e00300e53fc264218/ipython_genutils-0.1.0-py2.py3-none-any.whl
+
+... Collecting jdcal==1.3 (from -r /home/gnom/proplast/req.txt (line 74))
+
+...   Using cached https://files.pythonhosted.org/packages/9b/fa/40beb2aa43a13f740dd5be367a10a03270043787833409c61b79e69f1dfd/jdcal-1.3.tar.gz
+
+... Collecting Jinja2==2.9.5 (from -r /home/gnom/proplast/req.txt (line 75))
+
+...   Using cached https://files.pythonhosted.org/packages/3c/d1/49d69bc23d0e0c7612248dd8f5391bd043648865132309616c280ca1c837/Jinja2-2.9.5-py2.py3-none-any.whl
+
+... Collecting kombu==3.0.33 (from -r /home/gnom/proplast/req.txt (line 76))
+
+...   Using cached https://files.pythonhosted.org/packages/ad/ca/13d0265de94dbe4f685a2a5cd8c0123a4c90710352e94ccadc2e13098fc9/kombu-3.0.33-py2.py3-none-any.whl
+
+... Collecting lxml==3.6.1 (from -r /home/gnom/proplast/req.txt (line 77))
+
+...   Using cached https://files.pythonhosted.org/packages/09/f3/c41293bc181b8c727cc485339dc57af653dae6d17d4c8dbf0cbac53cb4aa/lxml-3.6.1.tar.gz
+
+... Collecting MarkupSafe==0.23 (from -r /home/gnom/proplast/req.txt (line 78))
+
+...   Using cached https://files.pythonhosted.org/packages/c0/41/bae1254e0396c0cc8cf1751cb7d9afc90a602353695af5952530482c963f/MarkupSafe-0.23.tar.gz
+
+... Collecting meld3==1.0.2 (from -r /home/gnom/proplast/req.txt (line 79))
+
+...   Using cached https://files.pythonhosted.org/packages/b6/ae/e6d731e4b9661642c1b20591d8054855bb5b8281cbfa18f561c2edd783f7/meld3-1.0.2-py2.py3-none-any.whl
+
+... Collecting mock==2.0.0 (from -r /home/gnom/proplast/req.txt (line 80))
+
+...   Using cached https://files.pythonhosted.org/packages/e6/35/f187bdf23be87092bd0f1200d43d23076cee4d0dec109f195173fd3ebc79/mock-2.0.0-py2.py3-none-any.whl
+
+... Collecting model-mommy==1.2.6 (from -r /home/gnom/proplast/req.txt (line 81))
+
+...   Using cached https://files.pythonhosted.org/packages/77/c4/0eb60c907bef3489a11c655c1741c93a1d6f6f9ec1643b3a8a6634a3bd5d/model_mommy-1.2.6.tar.gz
+
+... Collecting mysqlclient==1.3.7 (from -r /home/gnom/proplast/req.txt (line 82))
+
+...   Using cached https://files.pythonhosted.org/packages/74/ff/4e964e20b559e55d7afa60fbccc6a560f2adf289813bd3d7eb4eb8a87093/mysqlclient-1.3.7.tar.gz
+
+...     Complete output from command python setup.py egg_info:
+
+...     sh: 1: mysql_config: not found
+
+...     Traceback (most recent call last):
+
+...       File "<string>", line 1, in <module>
+
+...       File "/tmp/pip-install-Ty2ikn/mysqlclient/setup.py", line 17, in <module>
+
+...         metadata, options = get_config()
+
+...       File "setup_posix.py", line 44, in get_config
+
+...         libs = mysql_config("libs_r")
+
+...       File "setup_posix.py", line 26, in mysql_config
+
+...         raise EnvironmentError("%s not found" % (mysql_config.path,))
+
+...     EnvironmentError: mysql_config not found
+
+...     
+
+...     ----------------------------------------
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... nginx is already the newest version (1.14.2-2).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... uwsgi is already the newest version (2.0.18-1).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
+... Reading package lists...
+
+... Building dependency tree...
+
+... Reading state information...
+
+... postgresql is already the newest version (11+199).
+
+... 0 upgraded, 0 newly installed, 0 to remove and 93 not upgraded.
+
