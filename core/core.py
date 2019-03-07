@@ -34,8 +34,8 @@ class Core:
         with open(file,'r') as f:
             data = f.read()
         data = json.loads(data)
-        # if 'ftp' in data:
-        #     self.ftp_init(data['ftp'],data['server'])
+        if 'ftp' in data:
+            await self.ftp_init(data['ftp'],data['server'])
         self.server = Server(data['server']['host'],data['server']['user'],data['server']['password'],ssh_open_key=data['server']['ssh_open_key'])
         await self.install_package(data)
 

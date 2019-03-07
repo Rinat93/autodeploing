@@ -1,7 +1,6 @@
-import aioftp
+import asyncssh
 # Загрузка файлов на сервер
 async def ftp_upload(src,to,server,writeInto=False):
-    print(server)
-    async with aioftp.ClientSession(server['host'],21, server['user'], server['password']) as client:
-        print(client)
-        await client.upload(src,to,write_into=writeInto)
+    async with asyncssh.connect(host=server['host'], username=server['user'], password=server['password'], known_hosts=None) as conn:
+        async with conn.start_sftp_client() as sftp:
+            await sftp.put(src,remotepath=to,recurse=True)
