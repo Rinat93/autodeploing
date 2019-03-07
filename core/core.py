@@ -4,6 +4,7 @@ from .systems.config import settings_conf
 from .systems.ftp import ftp_upload
 import json
 import asyncio
+import threading
 class Core:
 
     def __init__(self,folder,files,**kwargs):
@@ -36,22 +37,15 @@ class Core:
         # if 'ftp' in data:
         #     self.ftp_init(data['ftp'],data['server'])
         self.server = Server(data['server']['host'],data['server']['user'],data['server']['password'],ssh_open_key=data['server']['ssh_open_key'])
-        self.install_package(data)
+        await self.install_package(data)
 
-
-    def ftp_init(self, ftp,server):
-        futures = []
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-
+    # FTP connect
+    async def ftp_init(self, ftp,server):
         for i in ftp:
-            futures.append(ftp_upload(i['src'], i['to'],server))
-
-        loop.run_until_complete(asyncio.wait(futures))
-        loop.close()
+            await ftp_upload(i['src'], i['to'],server)
 
     # Собираем комманды и кидаем на сервер запросы
-    def install_package(self,data):
+    async def install_package(self,data):
         if self.server != None:
             commands = []
             commands.append('{} {}'.format(self.os_command['command'],self.os_command['update']))
@@ -66,4 +60,4 @@ class Core:
             if 'git' in data:
                 commands = git(data,commands)
 
-            self.server.connects_server(commands)
+            await self.server.connects_server(commands)
