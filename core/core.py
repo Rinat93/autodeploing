@@ -28,12 +28,12 @@ class Core:
 
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
-        for i in self.files:
-            if i.endswith('.json'):
-                if os.path.isfile(self.folders+i):
-                    futures.append(self.open_config(self.folders+i))
+        for file in self.files:
+            if file.endswith('.json'):
+                if os.path.isfile(self.folders+file):
+                    futures.append(self.open_config(self.folders+file))
                 else:
-                    raise Exception("Не найден файл: "+self.folders+i)
+                    raise Exception("Не найден файл: "+self.folders+file)
         loop.run_until_complete(asyncio.wait(futures))
         loop.close()
 
@@ -48,8 +48,8 @@ class Core:
         await self.install_package(data)
 
     # FTP connect
-    async def ftp_init(self, ftp,server):
-        for i in ftp:
+    async def ftp_init(self, ftp_list,server):
+        for i in ftp_list:
             await ftp_upload(i['src'], i['to'],server)
 
     # Собираем комманды и кидаем на сервер запросы

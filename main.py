@@ -2,8 +2,12 @@ import os
 from core.core import Core
 
 if __name__ == '__main__':
+    dir_conf = './conf/'
 
-    if os.path.isdir('./conf'):
-        Core('./conf/', os.listdir('./conf'))
+    if os.environ.get('dir') != None:
+        dir_conf = os.environ.get('dir')
+
+    if os.path.isdir(dir_conf):
+        Core(dir_conf, os.listdir(dir_conf))
     else:
-        Exception("Ошибка, нет папки conf")
+        raise Exception("Ошибка, нет папки {}".format(dir_conf))
