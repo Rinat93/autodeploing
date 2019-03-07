@@ -1,27 +1,24 @@
 from .module import LinuxModule,modules_run,git
 from .systems.server import Server
-from .systems.config import settings_conf
+from .systems.config import *
 from .systems.ftp import ftp_upload
-import os
 import json
 import asyncio
 
 class Core:
 
     def __init__(self,folder,files,**kwargs):
-        os_serv = os.environ.get('os')
-        conf_file = os.environ.get('serv')
 
-        if os_serv == None:
-            os_serv = 'debian'
+        if application_conf['os'] == None:
+            application_conf['os'] = 'debian'
 
-        if conf_file != None:
-            self.files = [i+'.json' for i in conf_file.split(',') if i.endswith('.json')==False]
+        if application_conf['serv'] != None:
+            self.files = [i+'.json' for i in application_conf['serv'].split(',') if i.endswith('.json')==False]
         else:
             self.files = files
 
         self.folders = folder
-        self.os_command = settings_conf[os_serv]
+        self.os_command = settings_conf[application_conf['os']]
         self.parse_folder()
         self.server = None
 
