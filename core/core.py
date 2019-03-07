@@ -2,30 +2,41 @@ from .module import LinuxModule,modules_run,git
 from .systems.server import Server
 from .systems.config import settings_conf
 from .systems.ftp import ftp_upload
+import os
 import json
 import asyncio
-import threading
+
 class Core:
 
     def __init__(self,folder,files,**kwargs):
-        if 'arch' in kwargs:
-            os = kwargs['os']
+        os_serv = os.environ.get('os')
+        conf_file = os.environ.get('serv')
+
+        if os_serv == None:
+            os_serv = 'debian'
+
+        if conf_file != None:
+            self.files = [i+'.json' for i in conf_file.split(',') if i.endswith('.json')==False]
         else:
-            os = 'debian'
+            self.files = files
+
         self.folders = folder
-        self.files = files
-        self.os_command = settings_conf[os]
+        self.os_command = settings_conf[os_serv]
         self.parse_folder()
         self.server = None
 
     # Парсим папку с конфигами и берем все файлы
     def parse_folder(self):
         futures = []
+
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
         for i in self.files:
-            if i.split('.')[-1] == 'json':
-                futures.append(self.open_config(self.folders+i))
+            if i.endswith('.json'):
+                if os.path.isfile(self.folders+i):
+                    futures.append(self.open_config(self.folders+i))
+                else:
+                    raise Exception("Не найден файл: "+self.folders+i)
         loop.run_until_complete(asyncio.wait(futures))
         loop.close()
 
