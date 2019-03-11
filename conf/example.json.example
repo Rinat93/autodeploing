@@ -1,9 +1,9 @@
 {
-  "static": "../public/",
-  "app": {
-    "local": "../../sites/",
-    "git": {}
-  },
+  "ftp": [{
+    "src": "../assets",
+    "to": "/home/gnom/"
+  }],
+
   "install": [
     {
       "name": "git"
