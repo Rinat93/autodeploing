@@ -65,6 +65,10 @@ class Core:
                 if 'module' in i:
                     commands = modules_run(commands,i)
 
+            # Проверяем есть ли кастомные команды и добавляем
+            if 'custom' in data:
+                for i in data['custom']:
+                    commands.append(i)
             if 'git' in data:
                 commands = git(data,commands)
 

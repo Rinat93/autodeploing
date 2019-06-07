@@ -15,6 +15,10 @@ def git(data,commands):
     if type(data['git']) != list:
         data['git'] = [data['git']]
     for i in data['git']:
-        i['password'] = i['password'].replace('@', '%40')
-        commands.append('git clone https://{} {}'.format(i['user'] + ':' + i['password'] + '@' + i['src'], i['local']))
+        if 'password' in i:
+            i['password'] = i['password'].replace('@', '%40')
+            commands.append('git clone https://{} {}'.format(i['user'] + ':' + i['password'] + '@' + i['src'], i['local']))
+        else:
+            # Если ssh
+            commands.append(i['src'],i['local'])
     return commands

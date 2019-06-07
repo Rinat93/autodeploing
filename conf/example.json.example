@@ -61,6 +61,7 @@
       "local": "PATH_TO_UPLOAD"
     }
   ],
+  "custom": ["COMMAND"],
 
   "server": {
     "user": "SERVER_USER",
